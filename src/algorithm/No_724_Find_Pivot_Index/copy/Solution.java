@@ -1,4 +1,4 @@
-package java.No_724_Find_Pivot_Index;
+package algorithm.No_724_Find_Pivot_Index.copy;
 
 class Solution {
 	public int pivotIndex(int[] nums) {

@@ -1,4 +1,6 @@
-package java.No_747_Largest_Number_At_Least_Twice_of_Others;
+package algorithm.No_747_Largest_Number_At_Least_Twice_of_Others.copy;
+
+import java.util.Arrays;
 
 class Solution {
 	public int dominantIndex(int[] nums) {
