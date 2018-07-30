@@ -10,7 +10,7 @@ Create a index for each question that I've been solved.
 |:---| :------------------------------------| :---------------------------- | :----------| :------------------- | :-------- |
 |724 | [Find Pivot Index][724]              | Array                         | Easy       | [LeetCode 724][724q] |       |
 |747 | [Largest Number At Least Twice of Others][747]| Array                | Easy       | [LeetCode 747][747q] |      |
-|001 | [Two Sum][001]  | Array, HashTable | Easy | [LeetCode 001][001q]| Using HashMap to trade time from space |
+|001 | [Two Sum][001]  | Array, HashTable | Easy | [LeetCode 001][001q]| Using HashMap to trade space for time |
 
 
 <!--
