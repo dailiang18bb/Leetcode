@@ -1,4 +1,4 @@
-package algorithm.No_747_Largest_Number_At_Least_Twice_of_Others.copy;
+package algorithm.No_747_Largest_Number_At_Least_Twice_of_Others;
 
 import java.util.Arrays;
 
