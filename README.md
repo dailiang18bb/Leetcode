@@ -14,6 +14,8 @@ Create a index for each question that I've been solved.
 |167 | [Two Sum II - Input array is sorted][167]| Array, Two Pointers, Binary Search| Easy | [Algorithms 167][167q]| Using Two pointers search|
 |007 | [Reverse Integer][007]| Math | Easy | [Algorithms 007][007q]| pop and push idea, overflow check|
 |190 | [Reverse Bits][190]| Bit Manipulation|Easy | [Algorithms 190][190q]| bit-wise opeartor|
+|009 | [Palindrome Number][009]| Math | Easy | [Algorithms 009][009q]| check half , two pointers search|
+
 
 
 <!--
@@ -26,7 +28,7 @@ Question Link reference:
 [167q]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [007q]: https://leetcode.com/problems/reverse-integer/description/
 [190q]: https://leetcode.com/problems/reverse-bits/description/
-
+[009q]: https://leetcode.com/problems/palindrome-number/description/
 <!--
 Source code reference:
 -->
@@ -37,3 +39,4 @@ Source code reference:
 [167]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_167_TwoSumII/Solution.java
 [007]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_7_Reverse_Integer/Solution.java
 [190]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_190_Reverse_Bits/Solution.java
+[009]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_9_Palindrome_Number/Solution.java
