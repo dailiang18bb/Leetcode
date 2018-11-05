@@ -32,9 +32,8 @@ Question Link reference:
 <!--
 Source code reference:
 -->
-
-[724]: https://github.com/dailiang18bb/Leetcode/blob/master/src/java/No_724_Find_Pivot_Index/Solution.java
-[747]: https://github.com/dailiang18bb/Leetcode/blob/master/src/java/No_747_Largest_Number_At_Least_Twice_of_Others/Solution.java
+[724]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_724_Find_Pivot_Index/Solution.java
+[747]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_747_Largest_Number_At_Least_Twice_of_Others/Solution.java
 [001]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1_TwoSum/Solution.java
 [167]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_167_TwoSumII/Solution.java
 [007]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_7_Reverse_Integer/Solution.java
