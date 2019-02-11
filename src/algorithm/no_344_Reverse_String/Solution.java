@@ -1,4 +1,4 @@
-package no_344_Reverse_String;
+package algorithm.no_344_Reverse_String;
 
 
 /*
