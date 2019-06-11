@@ -16,6 +16,7 @@ Create a index for each question that I've been solved.
 |190 | [Reverse Bits][190]| Bit Manipulation|Easy | [Algorithms 190][190q]| bit-wise opeartor|
 |009 | [Palindrome Number][009]| Math | Easy | [Algorithms 009][009q]| check half , two pointers search|
 |344 | [Reverse String][344]| Two Pointers, String | Easy | [Algorithms 344][344q]| two pointers search, in-place sort|
+|027 | [Remove Element][027]| Two Pointers, Array | Easy | [Algorithms 027][027q]| two pointers search, in-place sort|
 
 
 
@@ -32,6 +33,7 @@ Question Link reference:
 [190q]: https://leetcode.com/problems/reverse-bits/description/
 [009q]: https://leetcode.com/problems/palindrome-number/description/
 [344q]: https://leetcode.com/problems/reverse-string/
+[027q]: https://leetcode.com/problems/remove-element/
 
 <!--
 Source code reference:
@@ -44,4 +46,4 @@ Source code reference:
 [190]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_190_Reverse_Bits/Solution.java
 [009]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_9_Palindrome_Number/Solution.java
 [344]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/no_344_Reverse_String/Solution.java
-
+[027]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_27_Remove_Element/MainClass.java
