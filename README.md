@@ -25,6 +25,7 @@ Create a index for each question that I've been solved.
 |009 | [Palindrome Number][009]| Math | Easy | [Algorithms 009][009q]| check half , two pointers search|  |
 |344 | [Reverse String][344]| Two Pointers, String | Easy | [Algorithms 344][344q]| two pointers search, in-place sort|  |
 |027 | [Remove Element][027]| Two Pointers, Array | Easy | [Algorithms 027][027q]| two pointers search, in-place sort|06/11/2019|
+|412 | [Fizz Buzz][412]| LinkedList | Easy | [Algorithms 412][412q]| LinkedList vs ArrayList|06/12/2019|
 
 
 
@@ -48,6 +49,7 @@ Question Link reference:
 [009q]: https://leetcode.com/problems/palindrome-number/description/
 [344q]: https://leetcode.com/problems/reverse-string/
 [027q]: https://leetcode.com/problems/remove-element/
+[412q]: https://leetcode.com/problems/fizz-buzz/
 
 <!--
 Source code reference:
@@ -61,7 +63,7 @@ Source code reference:
 [009]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_9_Palindrome_Number/Solution.java
 [344]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/no_344_Reverse_String/Solution.java
 [027]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_27_Remove_Element/MainClass.java
-
+[412]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_412_Fizz_Buzz/MainClass.java
 
 <!--
 Topic review reference:
