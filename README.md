@@ -26,6 +26,8 @@ Create a index for each question that I've been solved.
 |344 | [Reverse String][344]| Two Pointers, String | Easy | [Algorithms 344][344q]| two pointers search, in-place sort|  |
 |027 | [Remove Element][027]| Two Pointers, Array | Easy | [Algorithms 027][027q]| two pointers search, in-place sort|06/11/2019|
 |412 | [Fizz Buzz][412]| LinkedList | Easy | [Algorithms 412][412q]| LinkedList vs ArrayList|06/12/2019|
+|026 | [Remove Duplicates from Sorted Array][026]| Array | Easy | [Algorithms 026][026q]| sorted array two pointers(slow, fast)|06/12/2019|
+
 
 
 
@@ -50,6 +52,7 @@ Question Link reference:
 [344q]: https://leetcode.com/problems/reverse-string/
 [027q]: https://leetcode.com/problems/remove-element/
 [412q]: https://leetcode.com/problems/fizz-buzz/
+[026q]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 <!--
 Source code reference:
@@ -64,6 +67,10 @@ Source code reference:
 [344]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/no_344_Reverse_String/Solution.java
 [027]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_27_Remove_Element/MainClass.java
 [412]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_412_Fizz_Buzz/MainClass.java
+[026]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_26_Remove_Duplicates_from_Sorted_Array/MainClass.java
+
+
+
 
 <!--
 Topic review reference:
