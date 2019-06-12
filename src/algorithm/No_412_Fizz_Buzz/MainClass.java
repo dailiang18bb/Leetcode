@@ -2,7 +2,6 @@ package algorithm.No_412_Fizz_Buzz;
 
 import java.util.*;
 import java.io.*;
-import java.sql.Time;
 
 
 class Solution {
