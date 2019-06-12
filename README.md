@@ -28,6 +28,12 @@ Create a index for each question that I've been solved.
 
 
 
+## Topic Review
+1. [ArrayList vs LinkedList][r001]
+
+
+
+
 
 <!--
 Question Link reference:
@@ -55,3 +61,9 @@ Source code reference:
 [009]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_9_Palindrome_Number/Solution.java
 [344]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/no_344_Reverse_String/Solution.java
 [027]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_27_Remove_Element/MainClass.java
+
+
+<!--
+Topic review reference:
+-->
+[r001]: https://www.google.com/search?q=java+arraylist+vs+linkedlist&oq=java+arraylist+vs+linkedlist&aqs=chrome..69i57.12562j0j1&sourceid=chrome&ie=UTF-8
