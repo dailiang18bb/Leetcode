@@ -27,29 +27,29 @@ public class Solution {
 		return result;
 	}
 	
-	
-	// Pop and Push idea
-	public int reverse(int x) {
-		int result = 0;
-		while(x!=0) {
-			//pop
-			int y = x % 10;
-			x = x/10;
-			//check overflow
-			if (result > Integer.MAX_VALUE/10 || (result == Integer.MAX_VALUE && y > 7)) {
-				return 0;
-			}
-			if(result < Integer.MIN_VALUE/10 || (result == Integer.MIN_VALUE && y < -8)) {
-				return 0;
-			}
-			//push
-			int temp = result * 10 + y;
-			result = temp;
-		}
-		return result;
-	}
-	//Time Complexity: O(log(x)), There are roughly log10(x) digits in x
-	//Space Complexity: O(1)
+//	
+//	// Pop and Push idea
+//	public int reverse(int x) {
+//		int result = 0;
+//		while(x!=0) {
+//			//pop
+//			int y = x % 10;
+//			x = x/10;
+//			//check overflow
+//			if (result > Integer.MAX_VALUE/10 || (result == Integer.MAX_VALUE && y > 7)) {
+//				return 0;
+//			}
+//			if(result < Integer.MIN_VALUE/10 || (result == Integer.MIN_VALUE && y < -8)) {
+//				return 0;
+//			}
+//			//push
+//			int temp = result * 10 + y;
+//			result = temp;
+//		}
+//		return result;
+//	}
+//	//Time Complexity: O(log(x)), There are roughly log10(x) digits in x
+//	//Space Complexity: O(1)
 	
 	
 	/**
