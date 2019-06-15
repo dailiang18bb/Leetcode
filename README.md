@@ -27,6 +27,7 @@ Create a index for each question that I've been solved.
 |027 | [Remove Element][027]| Two Pointers, Array | Easy | [Algorithms 027][027q]| two pointers search, in-place sort|06/11/2019|
 |412 | [Fizz Buzz][412]| LinkedList | Easy | [Algorithms 412][412q]| LinkedList vs ArrayList|06/12/2019|
 |026 | [Remove Duplicates from Sorted Array][026]| Array | Easy | [Algorithms 026][026q]| sorted array two pointers(slow, fast)|06/12/2019|
+|088 | [Merge Sorted Array][088]| Array | Easy | [Algorithms 088][088q]| three pointers |06/15/2019|
 
 
 
@@ -34,6 +35,8 @@ Create a index for each question that I've been solved.
 ## Topic Review
 1. [ArrayList vs LinkedList][r001]
 2. Two pointer search, left/right, slow/fast, for/while
+3. Java `Arrays.sort()` time complexity is `nlog(n)`
+4. Java array copy, `System.arraycopy(arr,0,des,0,length)`, `arr.clone()`
 
 
 
@@ -53,6 +56,8 @@ Question Link reference:
 [027q]: https://leetcode.com/problems/remove-element/
 [412q]: https://leetcode.com/problems/fizz-buzz/
 [026q]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[088q]: https://leetcode.com/problems/merge-sorted-array/
+
 
 <!--
 Source code reference:
@@ -68,6 +73,7 @@ Source code reference:
 [027]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_27_Remove_Element/MainClass.java
 [412]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_412_Fizz_Buzz/MainClass.java
 [026]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_26_Remove_Duplicates_from_Sorted_Array/MainClass.java
+[088]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_88_Merge_Sorted_Array/MainClass.java
 
 
 
