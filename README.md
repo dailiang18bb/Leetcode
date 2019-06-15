@@ -5,6 +5,7 @@ Create a index for each question that I've been solved.
 
 
 ## Notes
+0. Ask questions
 1. Example
 2. Edge case
 3. Algorithm (Time Complexity, Space Complexity)
@@ -37,6 +38,10 @@ Create a index for each question that I've been solved.
 2. Two pointer search, left/right, slow/fast, for/while
 3. Java `Arrays.sort()` time complexity is `nlog(n)`
 4. Java array copy, `System.arraycopy(arr,0,des,0,length)`, `arr.clone()`
+
+
+## Ask Questions
+
 
 
 
