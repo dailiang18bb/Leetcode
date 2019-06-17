@@ -31,6 +31,9 @@ Create a index for each question that I've been solved.
 |088 | [Merge Sorted Array][088]| Array | Easy | [Algorithms 088][088q]| three pointers |06/15/2019|
 |118 | [Pascal's Triangle][088]| Array | Easy | [Algorithms 118][118q]| DP |06/16/2019|
 |119 | [Pascal's Triangle II][088]| Array | Easy | [Algorithms 119][119q]| List.set(), backward search |06/16/2019|
+|189 | [Rotate Array][189]| Array | Easy | [Algorithms 189][189q]| Cyclic Replacements/ Reverse |06/17/2019|
+
+
 
 
 
@@ -43,6 +46,7 @@ Create a index for each question that I've been solved.
 4. Java array copy, `System.arraycopy(arr,0,des,0,length)`, `arr.clone()`
 5. List.set()
 6. ArrayList `add(Index, E)` worst case cost `O(n)`, LinkedList `add(Index, E)` always cost `constant` time.
+7. Rotate Array, extra array/ Cyclic Replacements/ Reverse
 
 
 
@@ -70,6 +74,7 @@ Question Link reference:
 [088q]: https://leetcode.com/problems/merge-sorted-array/
 [118q]: https://leetcode.com/problems/pascals-triangle/
 [119q]: https://leetcode.com/problems/pascals-triangle-ii/
+[189q]: https://leetcode.com/problems/rotate-array/
 
 
 <!--
@@ -89,6 +94,7 @@ Source code reference:
 [088]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_88_Merge_Sorted_Array/MainClass.java
 [118]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_118_Pascals_Triangle/MainClass.java
 [119]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_119_Pascals_Triangle_II/MainClass.java
+[189]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_189_Rotate_Array/MainClass.java
 
 
 
