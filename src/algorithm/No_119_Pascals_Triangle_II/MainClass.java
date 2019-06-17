@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 class Solution {
@@ -37,20 +38,34 @@ class Solution {
         // End of Approach 1
         
         // Approach 2
-    	// Time Complexity: O(n^2)
+        // Time Complexity: O(n^2)
         // Space Complexity: O(n)
-        // Notes : backward search
+        // Notes : Add to the end of an ArrayList,cost(O(1)), then use backward search
         
-        List<Integer> row = new ArrayList<>();
+        // List<Integer> row = new ArrayList<>();
+        // for(int i = 0; i < rowIndex + 1; i++){
+        //     row.add(1);
+        //     for(int k = row.size()-2; k > 0; k--){
+        //         row.set(k, row.get(k-1) + row.get(k));
+        //     }
+        // }
+        // return row;
+        // End of Approach 2
+        
+        
+        // Approach 3
+        // Time Complexity : O(n^2)
+        // Space Complexity: O(n)
+        // Notes: Add to the anywhere of a LinkedList cost(O(1)), the use positive search
+        List<Integer> row = new LinkedList<>();
         for(int i = 0; i < rowIndex + 1; i++){
-            row.add(1);
-            for(int k = row.size()-2; k > 0; k--){
-                row.set(k, row.get(k-1) + row.get(k));
+            row.add(0,1);
+            for(int k = 1; k < row.size()-1; k++){
+                row.set(k, row.get(k) + row.get(k+1));
             }
         }
         return row;
-        // End of Approach 2
-        
+        // End of Approach 3
     }
 }
 
