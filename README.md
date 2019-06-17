@@ -11,7 +11,7 @@ Create a index for each question that I've been solved.
 3. Algorithm (Time Complexity, Space Complexity)
 4. Code
 5. Go through example and edge case
-6. Optimization (Trade off)
+6. Optimization (Trade off, using different data structure)
 
 
 ## Questions Table
@@ -42,6 +42,7 @@ Create a index for each question that I've been solved.
 3. Java `Arrays.sort()` time complexity is `nlog(n)`
 4. Java array copy, `System.arraycopy(arr,0,des,0,length)`, `arr.clone()`
 5. List.set()
+6. ArrayList `add(Index, E)` worst case cost `O(n)`, LinkedList `add(Index, E)` always cost `constant` time.
 
 
 
