@@ -11,7 +11,7 @@ Create a index for each question that I've been solved.
 3. Algorithm (Time Complexity, Space Complexity)
 4. Code
 5. Go through example and edge case
-6. Optimization (Trade off)
+6. Optimization (Trade off, using different data structure)
 
 
 ## Questions Table
