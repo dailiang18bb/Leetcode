@@ -32,6 +32,8 @@ Create a index for each question that I've been solved.
 |118 | [Pascal's Triangle][088]| Array | Easy | [Algorithms 118][118q]| DP |06/16/2019|
 |119 | [Pascal's Triangle II][088]| Array | Easy | [Algorithms 119][119q]| List.set(), backward search |06/16/2019|
 |189 | [Rotate Array][189]| Array | Easy | [Algorithms 189][189q]| Cyclic Replacements/ Reverse |06/17/2019|
+|217 | [Contains Duplicate][217]| Array | Easy | [Algorithms 217][217q]| check duplicate use hashset |06/17/2019|
+
 
 
 
@@ -47,6 +49,7 @@ Create a index for each question that I've been solved.
 5. List.set()
 6. ArrayList `add(Index, E)` worst case cost `O(n)`, LinkedList `add(Index, E)` always cost `constant` time.
 7. Rotate Array, extra array/ Cyclic Replacements/ Reverse
+8. Check duplicate use `Set`
 
 
 
@@ -75,6 +78,8 @@ Question Link reference:
 [118q]: https://leetcode.com/problems/pascals-triangle/
 [119q]: https://leetcode.com/problems/pascals-triangle-ii/
 [189q]: https://leetcode.com/problems/rotate-array/
+[217q]: https://leetcode.com/problems/contains-duplicate/
+
 
 
 <!--
@@ -95,6 +100,7 @@ Source code reference:
 [118]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_118_Pascals_Triangle/MainClass.java
 [119]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_119_Pascals_Triangle_II/MainClass.java
 [189]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_189_Rotate_Array/MainClass.java
+[217]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_217_Contains_Duplicate/MainClass.java
 
 
 
