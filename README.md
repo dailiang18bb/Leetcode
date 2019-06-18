@@ -32,7 +32,7 @@ Create a index for each question that I've been solved.
 |118 | [Pascal's Triangle][088]| Array | Easy | [Algorithms 118][118q]| DP |06/16/2019|
 |119 | [Pascal's Triangle II][088]| Array | Easy | [Algorithms 119][119q]| List.set(), backward search |06/16/2019|
 |189 | [Rotate Array][189]| Array | Easy | [Algorithms 189][189q]| Cyclic Replacements/ Reverse |06/17/2019|
-|217 | [Contains Duplicate][217]| Array | Easy | [Algorithms 217][217q]| check duplicate use hashset |06/17/2019|
+|217 | [Contains Duplicate][217]| Array, Hash Table | Easy | [Algorithms 217][217q]| check duplicate use hashset |06/17/2019|
 
 
 
