@@ -52,7 +52,7 @@ Create a index for each question that I've been solved.
 8. Check duplicate use `Set`
 9. `Hashtable.put(K,V)` return `null` when the key not duplicate, return previous value when the key is duplicate.
 10. An Object(Integer, String) can hold `null`, a primitive type cannot hold `null`
-
+11. When solving `absolute difference ...`, using `Math.abs()`
 
 
 ## Ask Questions
