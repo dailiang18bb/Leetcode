@@ -50,6 +50,8 @@ Create a index for each question that I've been solved.
 6. ArrayList `add(Index, E)` worst case cost `O(n)`, LinkedList `add(Index, E)` always cost `constant` time.
 7. Rotate Array, extra array/ Cyclic Replacements/ Reverse
 8. Check duplicate use `Set`
+9. `Hashtable.put(K,V)` return `null` when the key not duplicate, return previous value when the key is duplicate.
+10. An Object(Integer, String) can hold `null`, a primitive type cannot hold `null`
 
 
 
