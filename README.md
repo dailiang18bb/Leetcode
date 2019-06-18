@@ -33,6 +33,7 @@ Create a index for each question that I've been solved.
 |119 | [Pascal's Triangle II][088]| Array | Easy | [Algorithms 119][119q]| List.set(), backward search |06/16/2019|
 |189 | [Rotate Array][189]| Array | Easy | [Algorithms 189][189q]| Cyclic Replacements/ Reverse |06/17/2019|
 |217 | [Contains Duplicate][217]| Array, Hash Table | Easy | [Algorithms 217][217q]| check duplicate use hashset |06/17/2019|
+|219 | [Contains Duplicate II][219]| Array, Hash Table | Easy | [Algorithms 219][219q]| Map put return value |06/18/2019|
 
 
 
@@ -81,6 +82,8 @@ Question Link reference:
 [119q]: https://leetcode.com/problems/pascals-triangle-ii/
 [189q]: https://leetcode.com/problems/rotate-array/
 [217q]: https://leetcode.com/problems/contains-duplicate/
+[219q]: https://leetcode.com/problems/contains-duplicate-ii/
+
 
 
 
@@ -103,7 +106,7 @@ Source code reference:
 [119]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_119_Pascals_Triangle_II/MainClass.java
 [189]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_189_Rotate_Array/MainClass.java
 [217]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_217_Contains_Duplicate/MainClass.java
-
+[219]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_219_Contains_Duplicate_II/MainClass.java
 
 
 
