@@ -3,6 +3,9 @@ package algorithm.No_136_Single_Number;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.HashSet;
+import java.util.Set;
+
 
 class Solution {
     public int singleNumber(int[] nums) {
@@ -22,33 +25,27 @@ class Solution {
 //                 h.remove(nums[i]);
 //             }
 //         }
+//         return h.keySet().iterator().next();
+//         // End of Approach 1
         
-//         for(Integer x : h.keySet()){
-//             return x;
-//         }
-        
-//         return 0;
         
         
         // Approach 2
         // Time Complexity: O(n)
         // Space Complexity: O(n)
         
-//         //edge check
-//         if(nums.length ==1){return nums[0];}
-        
-//         HashSet<Integer> h = new HashSet<>();
-//         for(int x: nums){
-//             if(!h.add(x)){
-//                 h.remove(x);
-//             }
-//         }
-        
-//         for(int x:h){
-//             return x;
-//         }
-        
-//         return 0;
+//        //edge check
+//        if(nums.length ==1){return nums[0];}
+//        
+//        Set<Integer> h = new HashSet<>();
+//        for(int x: nums){
+//            if(!h.add(x)){
+//                h.remove(x);
+//            }
+//        }
+//        
+//        return h.iterator().next();
+//        // End of Approach 2
         
         
         // Approach 3
@@ -56,14 +53,15 @@ class Solution {
         // Time Complexity: O(n)
         // Space Complexity: O(1)
         
-        //edge check
-        if(nums.length ==1){return nums[0];}
-        int result = 0;
-        for(int x : nums){
-            result ^= x;
-        }
-        return result;
-        // End of Approach 3
+         //edge check
+         if(nums.length ==1){return nums[0];}
+         int result = 0;
+         for(int x : nums){
+             result ^= x;
+         }
+         return result;
+         // End of Approach 3
+        
     }
 }
 
