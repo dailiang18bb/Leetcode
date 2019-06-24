@@ -57,6 +57,8 @@ Create a index for each question that I've been solved.
 10. An Object(Integer, String) can hold `null`, a primitive type cannot hold `null`
 11. When solving `absolute difference ...`, using `Math.abs()`
 12. The prefix `0b` usually means "binary". e.g. `0b111 => 7`
+13. [Bit Manipulation review][r002]
+14. `HashSet.iterator().next()`, `HashMap.keySet().iterator().next()`
 
 
 
@@ -121,3 +123,4 @@ Source code reference:
 Topic review reference:
 -->
 [r001]: https://www.google.com/search?q=java+arraylist+vs+linkedlist&oq=java+arraylist+vs+linkedlist&aqs=chrome..69i57.12562j0j1&sourceid=chrome&ie=UTF-8
+[r002]: https://github.com/dailiang18bb/Leetcode/blob/master/docs/bitwise%20operation.md
