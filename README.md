@@ -34,6 +34,8 @@ Create a index for each question that I've been solved.
 |189 | [Rotate Array][189]| Array | Easy | [Algorithms 189][189q]| Cyclic Replacements/ Reverse |06/17/2019|
 |217 | [Contains Duplicate][217]| Array, Hash Table | Easy | [Algorithms 217][217q]| check duplicate use hashset |06/17/2019|
 |219 | [Contains Duplicate II][219]| Array, Hash Table | Easy | [Algorithms 219][219q]| Map put return value |06/18/2019|
+|136 | [Single Number][136]| Hash Table, Bit Manipulation | Easy | [Algorithms 136][136q]| Bit Manipulation |06/24/2019|
+
 
 
 
@@ -54,6 +56,8 @@ Create a index for each question that I've been solved.
 9. `Hashtable.put(K,V)` return `null` when the key not duplicate, return previous value when the key is duplicate.
 10. An Object(Integer, String) can hold `null`, a primitive type cannot hold `null`
 11. When solving `absolute difference ...`, using `Math.abs()`
+12. The prefix `0b` usually means "binary". e.g. `0b111 => 7`
+
 
 
 ## Ask Questions
@@ -83,6 +87,8 @@ Question Link reference:
 [189q]: https://leetcode.com/problems/rotate-array/
 [217q]: https://leetcode.com/problems/contains-duplicate/
 [219q]: https://leetcode.com/problems/contains-duplicate-ii/
+[136q]: https://leetcode.com/problems/single-number/
+
 
 
 
@@ -107,6 +113,7 @@ Source code reference:
 [189]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_189_Rotate_Array/MainClass.java
 [217]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_217_Contains_Duplicate/MainClass.java
 [219]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_219_Contains_Duplicate_II/MainClass.java
+[136]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_136_Single_Number/MainClass.java
 
 
 
