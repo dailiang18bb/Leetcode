@@ -58,6 +58,7 @@ Create a index for each question that I've been solved.
 11. When solving `absolute difference ...`, using `Math.abs()`
 12. The prefix `0b` usually means "binary". e.g. `0b111 => 7`
 13. [Bit Manipulation review][r002]
+14. `HashSet.iterator().next()`, `HashMap.keySet().iterator().next()`
 
 
 
