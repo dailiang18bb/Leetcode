@@ -6,7 +6,7 @@ Create a index for each question that I've been solved.
 
 ## Notes
 0. Ask questions
-1. Example
+1. Example (Datatype, max value, overflow)
 2. Edge case
 3. Algorithm (Time Complexity, Space Complexity)
 4. Code
@@ -67,6 +67,8 @@ Create a index for each question that I've been solved.
 
 
 ## Ask Questions
+
+1. 
 
 
 
