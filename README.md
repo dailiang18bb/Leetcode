@@ -37,6 +37,7 @@ Create a index for each question that I've been solved.
 |136 | [Single Number][136]| Hash Table, Bit Manipulation | Easy | [Algorithms 136][136q]| Bit Manipulation |06/24/2019|
 |268 | [Missing Number][268]| Array, Math, Bit Manipulation | Easy | [Algorithms 268][268q]| Math ,Bit Manipulation |06/24/2019|
 |137 | [Single Number II][137]| Bit Manipulation | Medium | [Algorithms 137][137q]| Bit Manipulation |06/25/2019|
+|202 | [Happy Number][202]| Hash Table, Math | Easy | [Algorithms 202][202q]| how to break the loop |06/25/2019|
 
 
 
@@ -65,10 +66,9 @@ Create a index for each question that I've been solved.
 15. Math approach
 
 
-
 ## Ask Questions
 
-1. 
+1. How big is the number? smaller than 32 bits(integer)?
 
 
 
@@ -98,6 +98,8 @@ Question Link reference:
 [136q]: https://leetcode.com/problems/single-number/
 [268q]: https://leetcode.com/problems/missing-number/
 [137q]: https://leetcode.com/problems/single-number-ii/
+[202q]: https://leetcode.com/problems/happy-number/
+
 
 
 
@@ -126,6 +128,7 @@ Source code reference:
 [136]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_136_Single_Number/MainClass.java
 [268]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_268_Missing_Number/MainClass.java
 [137]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_137_Single_Number_II/MainClass.java
+[202]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_202_Happy_Number/MainClass.java
 
 
 
