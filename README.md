@@ -39,6 +39,7 @@ Create a index for each question that I've been solved.
 |137 | [Single Number II][137]| Bit Manipulation | Medium | [Algorithms 137][137q]| Bit Manipulation |06/25/2019|
 |202 | [Happy Number][202]| Hash Table, Math | Easy | [Algorithms 202][202q]| how to break the loop |06/25/2019|
 |204 | [Count Primes][204]| Hash Table, Math | Easy | [Algorithms 204][204q]| Sieve of Eratosthenes |06/26/2019|
+|263 | [Ugly Number][263]| Math | Easy | [Algorithms 263][263q]| prime factors division |06/26/2019|
 
 
 
@@ -72,7 +73,7 @@ Create a index for each question that I've been solved.
 
 ## Ask Questions
 
-1. How big is the number? smaller than 32 bits(integer)?
+1. How big is the input number? smaller than 32 bits(integer), int(-2^31, 2^31-1)?
 
 
 
@@ -104,6 +105,8 @@ Question Link reference:
 [137q]: https://leetcode.com/problems/single-number-ii/
 [202q]: https://leetcode.com/problems/happy-number/
 [204q]: https://leetcode.com/problems/count-primes/
+[263q]: https://leetcode.com/problems/ugly-number/
+
 
 
 
@@ -135,6 +138,7 @@ Source code reference:
 [137]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_137_Single_Number_II/MainClass.java
 [202]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_202_Happy_Number/MainClass.java
 [204]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_204_Count_Primes/MainClass.java
+[263]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_263_Ugly_Number/MainClass.java
 
 
 
