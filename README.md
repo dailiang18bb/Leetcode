@@ -38,6 +38,8 @@ Create a index for each question that I've been solved.
 |268 | [Missing Number][268]| Array, Math, Bit Manipulation | Easy | [Algorithms 268][268q]| Math ,Bit Manipulation |06/24/2019|
 |137 | [Single Number II][137]| Bit Manipulation | Medium | [Algorithms 137][137q]| Bit Manipulation |06/25/2019|
 |202 | [Happy Number][202]| Hash Table, Math | Easy | [Algorithms 202][202q]| how to break the loop |06/25/2019|
+|204 | [Count Primes][204]| Hash Table, Math | Easy | [Algorithms 204][204q]| Sieve of Eratosthenes |06/26/2019|
+
 
 
 
@@ -64,6 +66,8 @@ Create a index for each question that I've been solved.
 13. [Bit Manipulation review][r002]
 14. `HashSet.iterator().next()`, `HashMap.keySet().iterator().next()`
 15. Math approach
+16. `Sieve of Eratosthenes` algorithm get all the prime number, time complexity, O(nloglogn)
+
 
 
 ## Ask Questions
@@ -99,6 +103,7 @@ Question Link reference:
 [268q]: https://leetcode.com/problems/missing-number/
 [137q]: https://leetcode.com/problems/single-number-ii/
 [202q]: https://leetcode.com/problems/happy-number/
+[204q]: https://leetcode.com/problems/count-primes/
 
 
 
@@ -129,6 +134,8 @@ Source code reference:
 [268]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_268_Missing_Number/MainClass.java
 [137]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_137_Single_Number_II/MainClass.java
 [202]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_202_Happy_Number/MainClass.java
+[204]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_204_Count_Primes/MainClass.java
+
 
 
 
