@@ -68,6 +68,7 @@ Create a index for each question that I've been solved.
 14. `HashSet.iterator().next()`, `HashMap.keySet().iterator().next()`
 15. Math approach
 16. `Sieve of Eratosthenes` algorithm get all the prime number, time complexity, O(nloglogn)
+17. `Integer.valueOf(i)`, This method will always cache values in the range -128 to 127, Thus, the reference are the same. 
 
 
 
