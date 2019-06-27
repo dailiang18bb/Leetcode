@@ -40,6 +40,7 @@ Create a index for each question that I've been solved.
 |202 | [Happy Number][202]| Hash Table, Math | Easy | [Algorithms 202][202q]| how to break the loop |06/25/2019|
 |204 | [Count Primes][204]| Hash Table, Math | Easy | [Algorithms 204][204q]| Sieve of Eratosthenes |06/26/2019|
 |263 | [Ugly Number][263]| Math | Easy | [Algorithms 263][263q]| prime factors division |06/26/2019|
+|205 | [Isomorphic Strings][205]| Hash Table | Easy | [Algorithms 205][205q]| Integer autoboxing, caching |06/27/2019|
 
 
 
@@ -106,6 +107,8 @@ Question Link reference:
 [202q]: https://leetcode.com/problems/happy-number/
 [204q]: https://leetcode.com/problems/count-primes/
 [263q]: https://leetcode.com/problems/ugly-number/
+[205q]: https://leetcode.com/problems/isomorphic-strings/
+
 
 
 
@@ -139,7 +142,7 @@ Source code reference:
 [202]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_202_Happy_Number/MainClass.java
 [204]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_204_Count_Primes/MainClass.java
 [263]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_263_Ugly_Number/MainClass.java
-
+[205]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_205_Isomorphic_Strings/MainClass.java
 
 
 
