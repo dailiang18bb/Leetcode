@@ -69,8 +69,7 @@ Create a index for each question that I've been solved.
 15. Math approach
 16. `Sieve of Eratosthenes` algorithm get all the prime number, time complexity, O(nloglogn)
 17. `Integer.valueOf(i)`, This method will always cache values in the range -128 to 127, Thus, the reference are the same. 
-
-
+18. Autoboxing, `int => Integer`; unboxing, `Integer => int`.3
 
 ## Ask Questions
 
