@@ -41,8 +41,7 @@ Create a index for each question that I've been solved.
 |204 | [Count Primes][204]| Hash Table, Math | Easy | [Algorithms 204][204q]| Sieve of Eratosthenes |06/26/2019|
 |263 | [Ugly Number][263]| Math | Easy | [Algorithms 263][263q]| prime factors division |06/26/2019|
 |205 | [Isomorphic Strings][205]| Hash Table | Easy | [Algorithms 205][205q]| Integer autoboxing, caching |06/27/2019|
-
-
+|242 | [Valid Anagram][242]| Hash Table, Sort | Easy | [Algorithms 242][242q]| Array, map check equality |06/27/2019|
 
 
 
@@ -73,6 +72,8 @@ Create a index for each question that I've been solved.
 18. Autoboxing, `int => Integer`; unboxing, `Integer => int`.
 19. `Map`, use `getOrDefault(key, defaultValue)` instead of checking `containsKey()`
 20. Array check equality `Arrays.equals(arr1, arr2)`; Map check equality `map1.equals(map2)`
+
+
 
 ## Ask Questions
 
@@ -110,6 +111,7 @@ Question Link reference:
 [204q]: https://leetcode.com/problems/count-primes/
 [263q]: https://leetcode.com/problems/ugly-number/
 [205q]: https://leetcode.com/problems/isomorphic-strings/
+[242q]: https://leetcode.com/problems/valid-anagram/
 
 
 
@@ -145,6 +147,7 @@ Source code reference:
 [204]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_204_Count_Primes/MainClass.java
 [263]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_263_Ugly_Number/MainClass.java
 [205]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_205_Isomorphic_Strings/MainClass.java
+[242]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_242_Valid_Anagram/MainClass.java
 
 
 
