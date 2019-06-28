@@ -72,6 +72,10 @@ Create a index for each question that I've been solved.
 18. Autoboxing, `int => Integer`; unboxing, `Integer => int`.
 19. `Map`, use `getOrDefault(key, defaultValue)` instead of checking `containsKey()`
 20. Array check equality `Arrays.equals(arr1, arr2)`; Map check equality `map1.equals(map2)`
+21. For comparing String use `equals()` instead of  `==` equality operator.
+22. use `==` to compare primitive e.g. boolean, int, char etc, while use `equals()` to compare objects in Java.
+23. `==` return true if two reference are of same object. Result of `equals()` method depends on overridden implementation.
+
 
 
 
