@@ -43,6 +43,7 @@ Create a index for each question that I've been solved.
 |205 | [Isomorphic Strings][205]| Hash Table | Easy | [Algorithms 205][205q]| Integer autoboxing, caching |06/27/2019|
 |242 | [Valid Anagram][242]| Hash Table, Sort | Easy | [Algorithms 242][242q]| Array, map check equality |06/27/2019|
 |290 | [Word Pattern][290]| Hash Table | Easy | [Algorithms 290][290q]| try to put everything into one HashMap |06/28/2019|
+|020 | [Valid Parentheses][020]| String, Stack | Easy | [Algorithms 020][020q]| Stack |06/28/2019|
 
 
 
@@ -117,6 +118,8 @@ Question Link reference:
 [205q]: https://leetcode.com/problems/isomorphic-strings/
 [242q]: https://leetcode.com/problems/valid-anagram/
 [290q]: https://leetcode.com/problems/word-pattern/
+[020q]: https://leetcode.com/problems/valid-parentheses/
+
 
 
 
@@ -154,7 +157,7 @@ Source code reference:
 [205]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_205_Isomorphic_Strings/MainClass.java
 [242]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_242_Valid_Anagram/MainClass.java
 [290]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_290_Word_Pattern/MainClass.java
-
+[020]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_20_Valid_Parentheses/MainClass.java
 
 
 <!--
