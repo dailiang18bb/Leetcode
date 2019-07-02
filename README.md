@@ -44,7 +44,7 @@ Create a index for each question that I've been solved.
 |242 | [Valid Anagram][242]| Hash Table, Sort | Easy | [Algorithms 242][242q]| Array, map check equality |06/27/2019|
 |290 | [Word Pattern][290]| Hash Table | Easy | [Algorithms 290][290q]| try to put everything into one HashMap |06/28/2019|
 |020 | [Valid Parentheses][020]| String, Stack | Easy | [Algorithms 020][020q]| Stack |06/28/2019|
-|496 | [Next Greater Element I][496]| String, Stack | Easy | [Algorithms 496][496q]| Stack |07/02/2019|
+|496 | [Next Greater Element I][496]| Stack | Easy | [Algorithms 496][496q]| Stack |07/02/2019|
 
 
 
