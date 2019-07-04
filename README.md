@@ -45,6 +45,7 @@ Create a index for each question that I've been solved.
 |290 | [Word Pattern][290]| Hash Table | Easy | [Algorithms 290][290q]| try to put everything into one HashMap |06/28/2019|
 |020 | [Valid Parentheses][020]| String, Stack | Easy | [Algorithms 020][020q]| Stack |06/28/2019|
 |496 | [Next Greater Element I][496]| Stack | Easy | [Algorithms 496][496q]| Stack |07/02/2019|
+|682 | [Baseball Game][682]| Stack | Easy | [Algorithms 682][682q]| Stack |07/03/2019|
 
 
 
@@ -77,7 +78,7 @@ Create a index for each question that I've been solved.
 22. use `==` to compare primitive e.g. boolean, int, char etc, while use `equals()` to compare objects in Java.
 23. `==` return true if two reference are of same object. Result of `equals()` method depends on overridden implementation.
 24. Stack to keep track the next large element.
-
+25. `Switch(){ case "C": break; default:}`
 
 
 ## Ask Questions
@@ -120,6 +121,8 @@ Question Link reference:
 [290q]: https://leetcode.com/problems/word-pattern/
 [020q]: https://leetcode.com/problems/valid-parentheses/
 [496q]: https://leetcode.com/problems/next-greater-element-i/
+[682q]: https://leetcode.com/problems/baseball-game/
+
 
 
 
@@ -160,7 +163,7 @@ Source code reference:
 [290]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_290_Word_Pattern/MainClass.java
 [020]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_20_Valid_Parentheses/MainClass.java
 [496]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_496_Next_Greater_Element_I/MainClass.java
-
+[682]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_682_Baseball_Game/MainClass.java
 
 <!--
 Topic review reference:
