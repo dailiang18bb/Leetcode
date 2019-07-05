@@ -47,7 +47,9 @@ Create a index for each question that I've been solved.
 |496 | [Next Greater Element I][496]| Stack | Easy | [Algorithms 496][496q]| Stack |07/02/2019|
 |682 | [Baseball Game][682]| Stack | Easy | [Algorithms 682][682q]| Stack |07/03/2019|
 |349 | [Intersection of Two Arrays][349]| Hash table, Two pointer, sort | Easy | [Algorithms 349][349q]| set contains perform O(1) |07/04/2019|
-|599 | [Minimum Index Sum of Two Lists][599]| Hash table | Easy | [Algorithms 599][599q]| list toArray() |07/04/2019|
+|599 | [Minimum Index Sum of Two Lists][599]| Hash table | Easy | [Algorithms 599][599q]| list toArray() |07/05/2019|
+|387 | [First Unique Character in a String][387]| Hash table, String | Easy | [Algorithms 387][387q]| getOrDefault() |07/05/2019|
+
 
 
 
@@ -129,6 +131,7 @@ Question Link reference:
 [682q]: https://leetcode.com/problems/baseball-game/
 [349q]: https://leetcode.com/problems/intersection-of-two-arrays/
 [599q]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+[387q]: https://leetcode.com/problems/first-unique-character-in-a-string/
 
 
 
@@ -173,7 +176,7 @@ Source code reference:
 [682]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_682_Baseball_Game/MainClass.java
 [349]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_349_Intersection_of_Two_Arrays/MainClass.java
 [599]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_599_Minimum_Index_Sum_of_Two_Lists/MainClass.java
-
+[387]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_387_First_Unique_Character_in_a_String/MainClass.java
 
 
 
