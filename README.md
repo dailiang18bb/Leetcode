@@ -47,6 +47,7 @@ Create a index for each question that I've been solved.
 |496 | [Next Greater Element I][496]| Stack | Easy | [Algorithms 496][496q]| Stack |07/02/2019|
 |682 | [Baseball Game][682]| Stack | Easy | [Algorithms 682][682q]| Stack |07/03/2019|
 |349 | [Intersection of Two Arrays][349]| Hash table, Two pointer, sort | Easy | [Algorithms 349][349q]| set contains perform O(1) |07/04/2019|
+|599 | [Minimum Index Sum of Two Lists][599]| Hash table | Easy | [Algorithms 599][599q]| list toArray() |07/04/2019|
 
 
 
@@ -80,6 +81,8 @@ Create a index for each question that I've been solved.
 23. `==` return true if two reference are of same object. Result of `equals()` method depends on overridden implementation.
 24. Stack to keep track the next large element.
 25. `Switch(){ case "C": break; default:}`
+26. `res.toArray(new String[res.size()])`
+
 
 
 
@@ -125,6 +128,7 @@ Question Link reference:
 [496q]: https://leetcode.com/problems/next-greater-element-i/
 [682q]: https://leetcode.com/problems/baseball-game/
 [349q]: https://leetcode.com/problems/intersection-of-two-arrays/
+[599q]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 
 
 
@@ -168,6 +172,7 @@ Source code reference:
 [496]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_496_Next_Greater_Element_I/MainClass.java
 [682]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_682_Baseball_Game/MainClass.java
 [349]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_349_Intersection_of_Two_Arrays/MainClass.java
+[599]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_599_Minimum_Index_Sum_of_Two_Lists/MainClass.java
 
 
 
