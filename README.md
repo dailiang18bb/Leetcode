@@ -49,6 +49,7 @@ Create a index for each question that I've been solved.
 |349 | [Intersection of Two Arrays][349]| Hash table, Two pointer, sort | Easy | [Algorithms 349][349q]| set contains perform O(1) |07/04/2019|
 |599 | [Minimum Index Sum of Two Lists][599]| Hash table | Easy | [Algorithms 599][599q]| list toArray() |07/05/2019|
 |387 | [First Unique Character in a String][387]| Hash table, String | Easy | [Algorithms 387][387q]| getOrDefault() |07/05/2019|
+|350 | [Intersection of Two Arrays II][350]| Hash table, Two pointer, sort | Easy | [Algorithms 350][350q]| sorted use two pointer |07/06/2019|
 
 
 
@@ -86,7 +87,8 @@ Create a index for each question that I've been solved.
 26. `res.toArray(new String[res.size()])`
 27. If a array is larger than the main memory, use `external sort`, and `streaming`
 28. If a array is sorted, using `two pointer search` usually better.
-
+29. Two strings are anagrams if and only if their `sorted strings` are equal.
+30. Return a new empty list, `return new ArrayList();` 
 
 
 ## Ask Questions
@@ -133,6 +135,7 @@ Question Link reference:
 [349q]: https://leetcode.com/problems/intersection-of-two-arrays/
 [599q]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 [387q]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[350q]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 
 
 
@@ -178,6 +181,7 @@ Source code reference:
 [349]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_349_Intersection_of_Two_Arrays/MainClass.java
 [599]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_599_Minimum_Index_Sum_of_Two_Lists/MainClass.java
 [387]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_387_First_Unique_Character_in_a_String/MainClass.java
+[350]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_350_Intersection_of_Two_Arrays_II/MainClass.java
 
 
 
