@@ -84,7 +84,7 @@ Create a index for each question that I've been solved.
 24. Stack to keep track the next large element.
 25. `Switch(){ case "C": break; default:}`
 26. `res.toArray(new String[res.size()])`
-
+27. If a array is larger than the main memory, use `external sort`, and `streaming`
 
 
 
