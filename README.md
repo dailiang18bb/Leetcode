@@ -87,6 +87,7 @@ Create a index for each question that I've been solved.
 26. `res.toArray(new String[res.size()])`
 27. If a array is larger than the main memory, use `external sort`, and `streaming`
 28. If a array is sorted, using `two pointer search` usually better.
+29. Two strings are anagrams if and only if their `sorted strings` are equal.
 
 
 
