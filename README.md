@@ -51,8 +51,7 @@ Create a index for each question that I've been solved.
 |387 | [First Unique Character in a String][387]| Hash table, String | Easy | [Algorithms 387][387q]| getOrDefault() |07/05/2019|
 |350 | [Intersection of Two Arrays II][350]| Hash table, Two pointer, sort | Easy | [Algorithms 350][350q]| sorted use two pointer |07/06/2019|
 |049 | [Group Anagrams][049]| Hash table, String | Medium | [Algorithms 049][049q]| anagrams, sorted char array equals |07/07/2019|
-
-
+|144 | [Binary Tree Preorder Traversal][144]| Tree, Stack | Medium | [Algorithms 144][144q]| user helper function |07/08/2019|
 
 
 
@@ -90,6 +89,8 @@ Create a index for each question that I've been solved.
 28. If a array is sorted, using `two pointer search` usually better.
 29. Two strings are anagrams if and only if their `sorted strings` are equal.
 30. Return a new empty list, `return new ArrayList();` 
+31. Binary Tree Preorder Traversal  => `current > left > right`
+32. Create helper function
 
 
 ## Ask Questions
@@ -138,7 +139,7 @@ Question Link reference:
 [387q]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [350q]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [049q]: https://leetcode.com/problems/group-anagrams/
-
+[144q]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 
 
 
@@ -185,7 +186,7 @@ Source code reference:
 [387]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_387_First_Unique_Character_in_a_String/MainClass.java
 [350]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_350_Intersection_of_Two_Arrays_II/MainClass.java
 [049]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_49_Group_Anagrams/MainClass.java
-
+[144]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_144_Binary_Tree_Preorder_Traversal/MainClass.java
 
 
 <!--
