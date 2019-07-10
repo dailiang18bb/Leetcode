@@ -56,28 +56,30 @@ class Solution {
     
     
     // Approach 2
-    // Time Complexity:
-    // Space Complexity:
+    // Time Complexity: O(n)
+    // Space Complexity: O(n)
     // Notes: Iterative
     
-//     public List<Integer> preorderTraversal(TreeNode root) {
-//         List<Integer> res = new LinkedList<>();
-//         Stack<Integer> treeStack = new Stack<>();
-//         treeStack.push(root);
-//         res.add(root.val);
-//         while(!treeStack.isEmpty()){
-//             if(root.left != null){
-                
-//             }
-            
-            
-//         }
-        
-        
-        
-        
-//         return res;
-//     }
+//    public List<Integer> preorderTraversal(TreeNode root) {
+//        
+//        // Edge check
+//        if(root == null){return new LinkedList();}
+//        
+//        List<Integer> res = new LinkedList<>();
+//        Stack<TreeNode> treeStack = new Stack<>();
+//        treeStack.push(root);
+//        while(!treeStack.empty()){
+//            TreeNode visit= treeStack.pop();
+//            res.add(visit.val);
+//            if(visit.right != null){
+//                treeStack.push(visit.right);
+//            }
+//            if(visit.left != null){
+//                treeStack.push(visit.left);
+//            }
+//        }
+//        return res;
+//    }
     
     // End of Approach 2
     
