@@ -92,6 +92,7 @@ Create a index for each question that I've been solved.
 30. Return a new empty list, `return new ArrayList();` 
 31. Binary Tree Preorder Traversal  => `current > left > right`
 32. Create helper function
+33. Always add to the head of a list, `List.add(0, val)`
 
 
 ## Ask Questions
