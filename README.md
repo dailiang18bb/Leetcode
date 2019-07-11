@@ -53,6 +53,7 @@ Create a index for each question that I've been solved.
 |049 | [Group Anagrams][049]| Hash table, String | Medium | [Algorithms 049][049q]| anagrams, sorted char array equals |07/07/2019|
 |144 | [Binary Tree Preorder Traversal][144]| Tree, Stack | Medium | [Algorithms 144][144q]| user helper function |07/08/2019|
 |094 | [Binary Tree Inorder Traversal][094]| Tree, Stack, HashTable | Medium | [Algorithms 094][094q]| Recursive, iterative, Morris Traversal |07/10/2019|
+|145 | [Binary Tree Postorder Traversal][145]| Tree, Stack | Hard | [Algorithms 145][145q]| reverse the process of preorder traversal, using link.add(0, val) |07/11/2019|
 
 
 
@@ -143,6 +144,7 @@ Question Link reference:
 [049q]: https://leetcode.com/problems/group-anagrams/
 [144q]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [094q]: https://leetcode.com/problems/binary-tree-inorder-traversal/solution/
+[145q]: https://leetcode.com/problems/binary-tree-postorder-traversal/
 
 
 
@@ -191,7 +193,8 @@ Source code reference:
 [049]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_49_Group_Anagrams/MainClass.java
 [144]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_144_Binary_Tree_Preorder_Traversal/MainClass.java
 [094]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_094_Binary_Tree_Inorder_Traversal/MainClass.java
-
+[145]: 
+https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary_Tree_Postorder_Traversal/MainClass.java
 
 <!--
 Topic review reference:
