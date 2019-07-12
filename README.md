@@ -95,7 +95,7 @@ Create a index for each question that I've been solved.
 32. Create helper function
 33. Always add to the head of a list, `List.add(0, val)`
 34. Pointer
-
+35. Using `Queue` to do `BFS(Level Order Traversal)`, `Stack` to do `DFS(Preorder/inorder/postorder Traversal)`
 
 ## Ask Questions
 
