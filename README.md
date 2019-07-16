@@ -54,7 +54,7 @@ Create a index for each question that I've been solved.
 |144 | [Binary Tree Preorder Traversal][144]| Tree, Stack | Medium | [Algorithms 144][144q]| user helper function |07/08/2019|
 |094 | [Binary Tree Inorder Traversal][094]| Tree, Stack, HashTable | Medium | [Algorithms 094][094q]| Recursive, iterative, Morris Traversal |07/10/2019|
 |145 | [Binary Tree Postorder Traversal][145]| Tree, Stack | Hard | [Algorithms 145][145q]| reverse the process of preorder traversal, using link.add(0, val) |07/11/2019|
-
+|002 | [Add Two Numbers][002]| LinkedList, Math | medium | [Algorithms 002][002q]| calculate numbers should care the data type |07/11/2019|
 
 
 
@@ -94,7 +94,8 @@ Create a index for each question that I've been solved.
 31. Binary Tree Preorder Traversal  => `current > left > right`
 32. Create helper function
 33. Always add to the head of a list, `List.add(0, val)`
-
+34. Pointer
+35. Using `Queue` to do `BFS(Level Order Traversal)`, `Stack` to do `DFS(Preorder/inorder/postorder Traversal)`
 
 ## Ask Questions
 
@@ -145,6 +146,7 @@ Question Link reference:
 [144q]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [094q]: https://leetcode.com/problems/binary-tree-inorder-traversal/solution/
 [145q]: https://leetcode.com/problems/binary-tree-postorder-traversal/
+[002q]: https://leetcode.com/problems/add-two-numbers/
 
 
 
@@ -195,6 +197,13 @@ Source code reference:
 [094]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_094_Binary_Tree_Inorder_Traversal/MainClass.java
 [145]: 
 https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary_Tree_Postorder_Traversal/MainClass.java
+[002]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_002_Add_Two_Numbers/MainClass.java
+
+
+
+
+
+
 
 <!--
 Topic review reference:
