@@ -55,6 +55,7 @@ Create a index for each question that I've been solved.
 |094 | [Binary Tree Inorder Traversal][094]| Tree, Stack, HashTable | Medium | [Algorithms 094][094q]| Recursive, iterative, Morris Traversal |07/10/2019|
 |145 | [Binary Tree Postorder Traversal][145]| Tree, Stack | Hard | [Algorithms 145][145q]| reverse the process of preorder traversal, using link.add(0, val) |07/11/2019|
 |002 | [Add Two Numbers][002]| LinkedList, Math | medium | [Algorithms 002][002q]| calculate numbers should care the data type |07/11/2019|
+|104 | [Maximum Depth of Binary Tree][104]| Tree, DFS | Easy | [Algorithms 104][104q]| Recursively, Top-down, Bottom-up |07/16/2019|
 
 
 
@@ -96,6 +97,7 @@ Create a index for each question that I've been solved.
 33. Always add to the head of a list, `List.add(0, val)`
 34. Pointer
 35. Using `Queue` to do `BFS(Level Order Traversal)`, `Stack` to do `DFS(Preorder/inorder/postorder Traversal)`
+
 
 ## Ask Questions
 
@@ -147,6 +149,7 @@ Question Link reference:
 [094q]: https://leetcode.com/problems/binary-tree-inorder-traversal/solution/
 [145q]: https://leetcode.com/problems/binary-tree-postorder-traversal/
 [002q]: https://leetcode.com/problems/add-two-numbers/
+[104q]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 
 
@@ -198,6 +201,7 @@ Source code reference:
 [145]: 
 https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary_Tree_Postorder_Traversal/MainClass.java
 [002]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_002_Add_Two_Numbers/MainClass.java
+[104]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_104_Maximum_Depth_of_Binary_Tree/MainClass.java
 
 
 
