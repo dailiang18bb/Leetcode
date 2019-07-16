@@ -129,6 +129,8 @@ public class MainClass {
             line = in.readLine();
             ListNode l2 = stringToListNode(line);
             
+//            System.out.print(listNodeToString(l1));
+//            System.out.print(listNodeToString(l2));
             ListNode ret = new Solution().addTwoNumbers(l1, l2);
             
             String out = listNodeToString(ret);
