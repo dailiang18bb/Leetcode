@@ -57,6 +57,7 @@ Create a index for each question that I've been solved.
 |002 | [Add Two Numbers][002]| LinkedList, Math | medium | [Algorithms 002][002q]| calculate numbers should care the data type |07/11/2019|
 |104 | [Maximum Depth of Binary Tree][104]| Tree, DFS | Easy | [Algorithms 104][104q]| Recursively, Top-down, Bottom-up |07/16/2019|
 |101 | [Symmetric Tree][101]| Tree, DFS, BFS | Easy | [Algorithms 101][101q]| use two node compare left and right at the same time |07/16/2019|
+|112 | [Path Sum][112]| Tree, DFS | Easy | [Algorithms 112][112q]| DPS, recursive |07/17/2019|
 
 
 
@@ -152,6 +153,7 @@ Question Link reference:
 [002q]: https://leetcode.com/problems/add-two-numbers/
 [104q]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [101q]: https://leetcode.com/problems/symmetric-tree/
+[112q]: https://leetcode.com/problems/path-sum/
 
 
 
@@ -205,6 +207,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [002]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_002_Add_Two_Numbers/MainClass.java
 [104]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_104_Maximum_Depth_of_Binary_Tree/MainClass.java
 [101]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_101_Symmetric_Tree/MainClass.java
+[112]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_112_Path_Sum/MainClass.java
 
 
 
