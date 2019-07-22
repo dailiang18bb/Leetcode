@@ -58,6 +58,7 @@ Create a index for each question that I've been solved.
 |104 | [Maximum Depth of Binary Tree][104]| Tree, DFS | Easy | [Algorithms 104][104q]| Recursively, Top-down, Bottom-up |07/16/2019|
 |101 | [Symmetric Tree][101]| Tree, DFS, BFS | Easy | [Algorithms 101][101q]| use two node compare left and right at the same time |07/16/2019|
 |112 | [Path Sum][112]| Tree, DFS | Easy | [Algorithms 112][112q]| DPS, recursive |07/17/2019|
+|707 | [Design Linked List][707]| LinkedList, Design | Easy | [Algorithms 707][707q]| edge case |07/22/2019|
 
 
 
@@ -154,6 +155,7 @@ Question Link reference:
 [104q]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [101q]: https://leetcode.com/problems/symmetric-tree/
 [112q]: https://leetcode.com/problems/path-sum/
+[707q]: https://leetcode.com/problems/design-linked-list/
 
 
 
@@ -208,6 +210,8 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [104]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_104_Maximum_Depth_of_Binary_Tree/MainClass.java
 [101]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_101_Symmetric_Tree/MainClass.java
 [112]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_112_Path_Sum/MainClass.java
+[707]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_707_Design_Linked_List/MyLinkedList.java
+
 
 
 
