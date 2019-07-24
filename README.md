@@ -105,6 +105,7 @@ Create a index for each question that I've been solved.
 36. Cycle detection Floyd's Cycle Detection Algorithm (Two pointers)
 37. Two pointers, align the list, or make two iterations.
 38. LinkedList alway watch the head and tail case
+39. LinkedList add `one dummy node before the head node` can make the head case easier.
 
 
 
