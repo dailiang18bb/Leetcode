@@ -104,6 +104,7 @@ Create a index for each question that I've been solved.
 35. Using `Queue` to do `BFS(Level Order Traversal)`, `Stack` to do `DFS(Preorder/inorder/postorder Traversal)`
 36. Cycle detection Floyd's Cycle Detection Algorithm (Two pointers)
 37. Two pointers, align the list, or make two iterations.
+38. LinkedList alway watch the head and tail case
 
 
 
