@@ -59,7 +59,7 @@ Create a index for each question that I've been solved.
 |101 | [Symmetric Tree][101]| Tree, DFS, BFS | Easy | [Algorithms 101][101q]| use two node compare left and right at the same time |07/16/2019|
 |112 | [Path Sum][112]| Tree, DFS | Easy | [Algorithms 112][112q]| DPS, recursive |07/17/2019|
 |707 | [Design Linked List][707]| LinkedList, Design | Easy | [Algorithms 707][707q]| edge case |07/22/2019|
-
+|141 | [Linked List Cycle][141]| LinkedList, Two pointers | Easy | [Algorithms 141][141q]| fast and slow pointers detect cycle |07/22/2019|
 
 
 
@@ -100,12 +100,16 @@ Create a index for each question that I've been solved.
 33. Always add to the head of a list, `List.add(0, val)`
 34. Pointer
 35. Using `Queue` to do `BFS(Level Order Traversal)`, `Stack` to do `DFS(Preorder/inorder/postorder Traversal)`
+36. Cycle detection Floyd's Cycle Detection Algorithm (Two pointers)
+37. Two pointers, align the list, or make two iterations.
+
+
 
 
 ## Ask Questions
 
 1. How big is the input number? smaller than 32 bits(integer), int(-2^31, 2^31-1)?
-
+2. Does the linkedlist contains cycle or intersection?
 
 
 
@@ -156,6 +160,7 @@ Question Link reference:
 [101q]: https://leetcode.com/problems/symmetric-tree/
 [112q]: https://leetcode.com/problems/path-sum/
 [707q]: https://leetcode.com/problems/design-linked-list/
+[141q]: https://leetcode.com/problems/linked-list-cycle/
 
 
 
@@ -211,6 +216,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [101]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_101_Symmetric_Tree/MainClass.java
 [112]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_112_Path_Sum/MainClass.java
 [707]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_707_Design_Linked_List/MyLinkedList.java
+[141]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_141_Linked_List_Cycle/Solution.java
 
 
 
