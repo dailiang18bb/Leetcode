@@ -101,6 +101,7 @@ Create a index for each question that I've been solved.
 34. Pointer
 35. Using `Queue` to do `BFS(Level Order Traversal)`, `Stack` to do `DFS(Preorder/inorder/postorder Traversal)`
 36. Cycle detection Floyd's Cycle Detection Algorithm (Two pointers)
+37. Two pointers, align the list, or make two iterations.
 
 
 
@@ -108,7 +109,7 @@ Create a index for each question that I've been solved.
 ## Ask Questions
 
 1. How big is the input number? smaller than 32 bits(integer), int(-2^31, 2^31-1)?
-
+2. Does the linkedlist contains cycle or intersection?
 
 
 
