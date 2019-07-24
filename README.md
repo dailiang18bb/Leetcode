@@ -60,6 +60,7 @@ Create a index for each question that I've been solved.
 |112 | [Path Sum][112]| Tree, DFS | Easy | [Algorithms 112][112q]| DPS, recursive |07/17/2019|
 |707 | [Design Linked List][707]| LinkedList, Design | Easy | [Algorithms 707][707q]| edge case |07/22/2019|
 |141 | [Linked List Cycle][141]| LinkedList, Two pointers | Easy | [Algorithms 141][141q]| fast and slow pointers detect cycle |07/22/2019|
+|142 | [Linked List Cycle II][142]| LinkedList, Two pointers | medium | [Algorithms 142][142q]| when meet move to the begining, move same length |07/23/2019|
 |160 | [Intersection of Two Linked Lists][160]| LinkedList, Two pointers | Easy | [Algorithms 160][160q]| align the list or move twice iteration |07/24/2019|
 
 
@@ -162,6 +163,7 @@ Question Link reference:
 [112q]: https://leetcode.com/problems/path-sum/
 [707q]: https://leetcode.com/problems/design-linked-list/
 [141q]: https://leetcode.com/problems/linked-list-cycle/
+[142q]: https://leetcode.com/problems/linked-list-cycle-ii/
 [160q]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 
 
@@ -219,6 +221,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [112]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_112_Path_Sum/MainClass.java
 [707]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_707_Design_Linked_List/MyLinkedList.java
 [141]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_141_Linked_List_Cycle/Solution.java
+[142]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_142_Linked_List_Cycle_II/Solution.java
 [160]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_160_Intersection_of_Two_Linked_Lists/Solution.java
 
 
