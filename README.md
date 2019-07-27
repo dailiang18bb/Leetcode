@@ -65,6 +65,8 @@ Create a index for each question that I've been solved.
 |019 | [Remove Nth Node From End of List][019]| LinkedList, Two pointers | Medium | [Algorithms 019][019q]| add a dummy node before the head to make the head case easier |07/24/2019|
 |206 | [Reverse Linked List][206]| LinkedList | Easy | [Algorithms 206][206q]| Recursive, go to the deepest and return piece by piece |07/26/2019|
 |203 | [Remove Linked List Elements][203]| LinkedList | Easy | [Algorithms 203][203q]| Recursive, draw a map to help |07/27/2019|
+|328 | [Odd Even Linked List][328]| LinkedList | Medium | [Algorithms 328][328q]| use two list |07/27/2019|
+
 
 
 
@@ -173,6 +175,7 @@ Question Link reference:
 [019q]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [206q]: https://leetcode.com/problems/reverse-linked-list/
 [203q]: https://leetcode.com/problems/remove-linked-list-elements/
+[328q]: https://leetcode.com/problems/odd-even-linked-list/
 
 
 
@@ -234,6 +237,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [019]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_019_Remove_Nth_Node_From_End_of_List/MainClass.java
 [206]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_206_Reverse_Linked_List/MainClass.java
 [203]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_203_Remove_Linked_List_Elements/MainClass.java
+[328]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_328_Odd_Even_Linked_List/MainClass.java
 
 
 
