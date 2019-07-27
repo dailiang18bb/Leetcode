@@ -64,6 +64,7 @@ Create a index for each question that I've been solved.
 |160 | [Intersection of Two Linked Lists][160]| LinkedList, Two pointers | Easy | [Algorithms 160][160q]| align the list or move twice iteration |07/24/2019|
 |019 | [Remove Nth Node From End of List][019]| LinkedList, Two pointers | Medium | [Algorithms 019][019q]| add a dummy node before the head to make the head case easier |07/24/2019|
 |206 | [Reverse Linked List][206]| LinkedList | Easy | [Algorithms 206][206q]| Recursive, go to the deepest and return piece by piece |07/26/2019|
+|203 | [Remove Linked List Elements][203]| LinkedList | Easy | [Algorithms 203][203q]| Recursive, draw a map to help |07/27/2019|
 
 
 
@@ -171,6 +172,7 @@ Question Link reference:
 [160q]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [019q]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [206q]: https://leetcode.com/problems/reverse-linked-list/
+[203q]: https://leetcode.com/problems/remove-linked-list-elements/
 
 
 
@@ -231,6 +233,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [160]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_160_Intersection_of_Two_Linked_Lists/Solution.java
 [019]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_019_Remove_Nth_Node_From_End_of_List/MainClass.java
 [206]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_206_Reverse_Linked_List/MainClass.java
+[203]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_203_Remove_Linked_List_Elements/MainClass.java
 
 
 
