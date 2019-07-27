@@ -63,6 +63,7 @@ Create a index for each question that I've been solved.
 |142 | [Linked List Cycle II][142]| LinkedList, Two pointers | medium | [Algorithms 142][142q]| when meet move to the begining, move same length |07/23/2019|
 |160 | [Intersection of Two Linked Lists][160]| LinkedList, Two pointers | Easy | [Algorithms 160][160q]| align the list or move twice iteration |07/24/2019|
 |019 | [Remove Nth Node From End of List][019]| LinkedList, Two pointers | Medium | [Algorithms 019][019q]| add a dummy node before the head to make the head case easier |07/24/2019|
+|206 | [Reverse Linked List][206]| LinkedList | Easy | [Algorithms 206][206q]| Recursive, go to the deepest and return piece by piece |07/26/2019|
 
 
 
@@ -107,7 +108,7 @@ Create a index for each question that I've been solved.
 37. Two pointers, align the list, or make two iterations.
 38. LinkedList alway watch the head and tail case
 39. LinkedList add `one dummy node before the head node` can make the head case easier.
-
+40. Recursive, call the other result without me, go to the deepest and then start the return.
 
 
 
@@ -169,6 +170,7 @@ Question Link reference:
 [142q]: https://leetcode.com/problems/linked-list-cycle-ii/
 [160q]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [019q]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[206q]: https://leetcode.com/problems/reverse-linked-list/
 
 
 
@@ -228,6 +230,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [142]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_142_Linked_List_Cycle_II/Solution.java
 [160]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_160_Intersection_of_Two_Linked_Lists/Solution.java
 [019]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_019_Remove_Nth_Node_From_End_of_List/MainClass.java
+[206]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_206_Reverse_Linked_List/MainClass.java
 
 
 
