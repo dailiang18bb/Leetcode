@@ -69,6 +69,7 @@ Create a index for each question that I've been solved.
 |234 | [Palindrome Linked List][234]| LinkedList | Easy | [Algorithms 234][234q]| Use slow and fast pointer to get the middle point |07/27/2019|
 |622 | [Design Circular Queue][622]| Design, Queue | Medium | [Algorithms 622][622q]| ArrayList.add(index, val) will shift if the target index has value, use ArrayList.set(ind,val) to solve |07/29/2019|
 |994 | [Rotting Oranges][994]| BFS | Easy | [Algorithms 994][994q]| BFS apply in a grid |07/31/2019|
+|690 | [Employee Importance][690]| Hash Table, DFS, BFS | Easy | [Algorithms 690][690q]| BFS solving inherited problem |07/31/2019|
 
 
 
@@ -183,6 +184,7 @@ Question Link reference:
 [234q]: https://leetcode.com/problems/palindrome-linked-list/
 [622q]: https://leetcode.com/problems/design-circular-queue/
 [994q]: https://leetcode.com/problems/rotting-oranges/
+[690q]: https://leetcode.com/problems/employee-importance/
 
 
 
@@ -247,6 +249,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [234]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_234_Palindrome_Linked_List/MainClass.java
 [622]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_622_Design_Circular_Queue/MyCircularQueue.java
 [994]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_994_Rotting_Oranges/MainClass.java
+[690]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_690_Employee_Importance/MainClass.java
 
 
 
