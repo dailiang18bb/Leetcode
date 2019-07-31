@@ -67,6 +67,8 @@ Create a index for each question that I've been solved.
 |203 | [Remove Linked List Elements][203]| LinkedList | Easy | [Algorithms 203][203q]| Recursive, draw a map to help |07/27/2019|
 |328 | [Odd Even Linked List][328]| LinkedList | Medium | [Algorithms 328][328q]| use two list |07/27/2019|
 |234 | [Palindrome Linked List][234]| LinkedList | Easy | [Algorithms 234][234q]| Use slow and fast pointer to get the middle point |07/27/2019|
+|622 | [Design Circular Queue][622]| Design, Queue | Medium | [Algorithms 622][622q]| ArrayList.add(index, val) will shift if the target index has value, use ArrayList.set(ind,val) to solve |07/29/2019|
+
 
 
 
@@ -114,6 +116,7 @@ Create a index for each question that I've been solved.
 39. LinkedList add `one dummy node before the head node` can make the head case easier.
 40. Recursive, call the other result without me, go to the deepest and then start the return.
 41. Slow and fast pointer to get the middle point.
+42. `ArrayList.add(index, val)` will shift if the target index has value, use `ArrayList.set(ind,val)` to solve
 
 
 ## Ask Questions
@@ -178,6 +181,7 @@ Question Link reference:
 [203q]: https://leetcode.com/problems/remove-linked-list-elements/
 [328q]: https://leetcode.com/problems/odd-even-linked-list/
 [234q]: https://leetcode.com/problems/palindrome-linked-list/
+[622q]: https://leetcode.com/problems/design-circular-queue/
 
 
 
@@ -241,6 +245,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [203]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_203_Remove_Linked_List_Elements/MainClass.java
 [328]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_328_Odd_Even_Linked_List/MainClass.java
 [234]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_234_Palindrome_Linked_List/MainClass.java
+[622]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_622_Design_Circular_Queue/MyCircularQueue.java
 
 
 
