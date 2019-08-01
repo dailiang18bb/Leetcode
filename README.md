@@ -71,6 +71,7 @@ Create a index for each question that I've been solved.
 |994 | [Rotting Oranges][994]| BFS | Easy | [Algorithms 994][994q]| BFS apply in a grid |07/31/2019|
 |690 | [Employee Importance][690]| Hash Table, DFS, BFS | Easy | [Algorithms 690][690q]| BFS solving inherited problem |07/31/2019|
 |155 | [Min Stack][155]| Stack, Design | Easy | [Algorithms 155][155q]| use a node which has min value |07/31/2019|
+|739 | [Daily Temperatures][739]| Hash Table, Stack | Medium | [Algorithms 739][739q]| stack store the index |08/01/2019|
 
 
 
@@ -188,6 +189,7 @@ Question Link reference:
 [994q]: https://leetcode.com/problems/rotting-oranges/
 [690q]: https://leetcode.com/problems/employee-importance/
 [155q]: https://leetcode.com/problems/min-stack/
+[739q]: https://leetcode.com/problems/daily-temperatures/
 
 
 
@@ -254,6 +256,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [994]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_994_Rotting_Oranges/MainClass.java
 [690]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_690_Employee_Importance/MainClass.java
 [155]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_155_Min_Stack/MinStack.java
+[739]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_739_Daily_Temperatures/MainClass.java
 
 
 
