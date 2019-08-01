@@ -73,7 +73,7 @@ Create a index for each question that I've been solved.
 |155 | [Min Stack][155]| Stack, Design | Easy | [Algorithms 155][155q]| use a node which has min value |07/31/2019|
 |739 | [Daily Temperatures][739]| Hash Table, Stack | Medium | [Algorithms 739][739q]| stack store the index |08/01/2019|
 |150 | [Evaluate Reverse Polish Notation][150]| Stack | Medium | [Algorithms 150][150q]| convert between int and String |08/01/2019|
-
+|200 | [Number of Islands][200]| DFS, BFS, Union Find | Medium | [Algorithms 200][200q]| use a marker to achieve the search |08/01/2019|
 
 
 
@@ -123,6 +123,7 @@ Create a index for each question that I've been solved.
 42. `ArrayList.add(index, val)` will shift if the target index has value, use `ArrayList.set(ind,val)` to solve
 43. use a node which has min value to create the `Min Stack`
 44. Stack can remember 
+45. Change the value in a grid to achieve the DFS or BFS
 
 
 ## Ask Questions
@@ -193,6 +194,7 @@ Question Link reference:
 [155q]: https://leetcode.com/problems/min-stack/
 [739q]: https://leetcode.com/problems/daily-temperatures/
 [150q]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
+[200q]: https://leetcode.com/problems/number-of-islands/
 
 
 
@@ -261,6 +263,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [155]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_155_Min_Stack/MinStack.java
 [739]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_739_Daily_Temperatures/MainClass.java
 [150]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_150_Evaluate_Reverse_Polish_Notation/MainClass.java
+[200]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_200_Number_of_Islands/Solution.java
 
 
 
