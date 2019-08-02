@@ -76,6 +76,10 @@ Create a index for each question that I've been solved.
 |200 | [Number of Islands][200]| DFS, BFS, Union Find | Medium | [Algorithms 200][200q]| use a marker to achieve the search |08/01/2019|
 |589 | [N-ary Tree Preorder Traversal][589]| Tree | Easy | [Algorithms 589][589q]| Preorder use Stack |08/02/2019|
 |590 | [N-ary Tree Postorder Traversal][590]| Tree | Easy | [Algorithms 590][590q]| Reverse the Preorder list |08/02/2019|
+|429 | [N-ary Tree Level Order Traversal][429]| Tree | BFS | [Algorithms 429][429q]| BFS == Queue |08/02/2019|
+
+
+
 
 
 ## Topic Review
@@ -197,6 +201,7 @@ Question Link reference:
 [200q]: https://leetcode.com/problems/number-of-islands/
 [589q]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [590q]: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+[429q]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 
 
 
@@ -267,6 +272,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [200]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_200_Number_of_Islands/Solution.java
 [589]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_589_N_ary_Tree_Preorder_Traversal/Solution.java
 [590]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_590_N_ary_Tree_Postorder_Traversal/Solution.java
+[429]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_429_N_ary_Tree_Level_Order_Traversal/Solution.java
 
 
 
