@@ -74,7 +74,7 @@ Create a index for each question that I've been solved.
 |739 | [Daily Temperatures][739]| Hash Table, Stack | Medium | [Algorithms 739][739q]| stack store the index |08/01/2019|
 |150 | [Evaluate Reverse Polish Notation][150]| Stack | Medium | [Algorithms 150][150q]| convert between int and String |08/01/2019|
 |200 | [Number of Islands][200]| DFS, BFS, Union Find | Medium | [Algorithms 200][200q]| use a marker to achieve the search |08/01/2019|
-
+|589 | [N-ary Tree Preorder Traversal][589]| Tree | Easy | [Algorithms 589][589q]| Preorder use Stack |08/02/2019|
 
 
 
@@ -195,6 +195,7 @@ Question Link reference:
 [739q]: https://leetcode.com/problems/daily-temperatures/
 [150q]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [200q]: https://leetcode.com/problems/number-of-islands/
+[589q]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 
 
 
@@ -264,6 +265,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [739]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_739_Daily_Temperatures/MainClass.java
 [150]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_150_Evaluate_Reverse_Polish_Notation/MainClass.java
 [200]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_200_Number_of_Islands/Solution.java
+[589]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_589_N_ary_Tree_Preorder_Traversal/Solution.java
 
 
 
