@@ -1,4 +1,4 @@
-package algorithm.No_7_Reverse_Integer;
+package algorithm.No_007_Reverse_Integer;
 
 public class Solution {
 
