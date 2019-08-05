@@ -79,7 +79,7 @@ Create a index for each question that I've been solved.
 |429 | [N-ary Tree Level Order Traversal][429]| Tree, BFS | Easy | [Algorithms 429][429q]| BFS == Queue |08/02/2019|
 |559 | [Maximum Depth of N-ary Tree][559]| Tree, BFS, DFS | Easy | [Algorithms 559][559q]| Tree problem, using Top-down/ Bottom-up |08/02/2019|
 |704 | [Binary Search][704]| Binary Search | Easy | [Algorithms 704][704q]| while(left <= right) |08/04/2019|
-
+|069 | [Sqrt(x)][069]| Math, Binary Search | Easy | [Algorithms 069][069q]| mid = (temp + x/temp)/2 |08/05/2019|
 
 
 
@@ -207,6 +207,8 @@ Question Link reference:
 [429q]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [559q]: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
 [704q]: https://leetcode.com/problems/binary-search/
+[069q]: https://leetcode.com/problems/sqrtx/
+
 
 
 
@@ -281,7 +283,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [429]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_429_N_ary_Tree_Level_Order_Traversal/Solution.java
 [559]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_559_Maximum_Depth_of_N_ary_Tree/Solution.java
 [704]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_704_Binary_Search/MainClass.java
-
+[069]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_069_Sqrt_x/MainClass.java
 
 
 
