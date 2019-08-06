@@ -81,6 +81,7 @@ Create a index for each question that I've been solved.
 |704 | [Binary Search][704]| Binary Search | Easy | [Algorithms 704][704q]| while(left <= right) |08/04/2019|
 |069 | [Sqrt(x)][069]| Math, Binary Search | Easy | [Algorithms 069][069q]| mid = (temp + x/temp)/2 |08/05/2019|
 |374 | [Guess Number Higher or Lower][374]| Binary Search | Easy | [Algorithms 374][374q]| Ternary search |08/05/2019|
+|278 | [First Bad Version][278]| Binary Search | Easy | [Algorithms 278][278q]| Binary search template 2, get the first ()number |08/06/2019|
 
 
 
@@ -132,6 +133,7 @@ Create a index for each question that I've been solved.
 45. Change the value in a grid to achieve the DFS or BFS
 46. Tree problem use Recursive, `top-down`, `bottom-up`
 47. int overflow control in Binary Search, `mid = left + (right - left)/2;`
+48. Bit manipulate, `a>>1 == a/2`
 
 
 ## Ask Questions
@@ -210,6 +212,7 @@ Question Link reference:
 [704q]: https://leetcode.com/problems/binary-search/
 [069q]: https://leetcode.com/problems/sqrtx/
 [374q]: https://leetcode.com/problems/guess-number-higher-or-lower/
+[278q]: https://leetcode.com/problems/first-bad-version/
 
 
 
@@ -287,7 +290,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [704]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_704_Binary_Search/MainClass.java
 [069]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_069_Sqrt_x/MainClass.java
 [374]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_374_Guess_Number_Higher_or_Lower/MainClass.java
-
+[278]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_278_First_Bad_Version/Solution.java
 
 
 
