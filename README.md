@@ -133,6 +133,7 @@ Create a index for each question that I've been solved.
 45. Change the value in a grid to achieve the DFS or BFS
 46. Tree problem use Recursive, `top-down`, `bottom-up`
 47. int overflow control in Binary Search, `mid = left + (right - left)/2;`
+48. Bit manipulate, `a>>1 == a/2`
 
 
 ## Ask Questions
