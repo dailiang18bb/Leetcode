@@ -82,6 +82,7 @@ Create a index for each question that I've been solved.
 |069 | [Sqrt(x)][069]| Math, Binary Search | Easy | [Algorithms 069][069q]| mid = (temp + x/temp)/2 |08/05/2019|
 |374 | [Guess Number Higher or Lower][374]| Binary Search | Easy | [Algorithms 374][374q]| Ternary search |08/05/2019|
 |278 | [First Bad Version][278]| Binary Search | Easy | [Algorithms 278][278q]| Binary search template 2, get the first ()number |08/06/2019|
+|162 | [Find Peak Element][162]| Binary Search, Array | Medium | [Algorithms 162][162q]| think of the whole picture |08/06/2019|
 
 
 
@@ -213,6 +214,7 @@ Question Link reference:
 [069q]: https://leetcode.com/problems/sqrtx/
 [374q]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [278q]: https://leetcode.com/problems/first-bad-version/
+[162q]: https://leetcode.com/problems/find-peak-element/
 
 
 
@@ -291,6 +293,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [069]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_069_Sqrt_x/MainClass.java
 [374]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_374_Guess_Number_Higher_or_Lower/MainClass.java
 [278]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_278_First_Bad_Version/Solution.java
+[162]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_162_Find_Peak_Element/MainClass.java
 
 
 
