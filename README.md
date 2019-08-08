@@ -83,6 +83,7 @@ Create a index for each question that I've been solved.
 |374 | [Guess Number Higher or Lower][374]| Binary Search | Easy | [Algorithms 374][374q]| Ternary search |08/05/2019|
 |278 | [First Bad Version][278]| Binary Search | Easy | [Algorithms 278][278q]| Binary search template 2, get the first ()number |08/06/2019|
 |162 | [Find Peak Element][162]| Binary Search, Array | Medium | [Algorithms 162][162q]| think of the whole picture |08/06/2019|
+|034 | [Find First and Last Position of Element in Sorted Array][034]| Binary Search, Array | Medium | [Algorithms 034][034q]| search two point, can use twice Binary Search |08/08/2019|
 
 
 
@@ -215,6 +216,7 @@ Question Link reference:
 [374q]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [278q]: https://leetcode.com/problems/first-bad-version/
 [162q]: https://leetcode.com/problems/find-peak-element/
+[034q]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 
 
@@ -294,7 +296,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [374]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_374_Guess_Number_Higher_or_Lower/MainClass.java
 [278]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_278_First_Bad_Version/Solution.java
 [162]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_162_Find_Peak_Element/MainClass.java
-
+[034]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/MainClass.java
 
 
 
