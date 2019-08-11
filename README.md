@@ -84,7 +84,7 @@ Create a index for each question that I've been solved.
 |278 | [First Bad Version][278]| Binary Search | Easy | [Algorithms 278][278q]| Binary search template 2, get the first ()number |08/06/2019|
 |162 | [Find Peak Element][162]| Binary Search, Array | Medium | [Algorithms 162][162q]| think of the whole picture |08/06/2019|
 |034 | [Find First and Last Position of Element in Sorted Array][034]| Binary Search, Array | Medium | [Algorithms 034][034q]| search two point, can use twice Binary Search |08/08/2019|
-
+|098 | [Validate Binary Search Tree][098]| Tree, DFS | Medium | [Algorithms 098][098q]| draw a tree map with the range, think of inorder traversal |08/11/2019|
 
 
 ## Topic Review
@@ -217,6 +217,7 @@ Question Link reference:
 [278q]: https://leetcode.com/problems/first-bad-version/
 [162q]: https://leetcode.com/problems/find-peak-element/
 [034q]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+[098q]: https://leetcode.com/problems/validate-binary-search-tree/
 
 
 
@@ -297,6 +298,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [278]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_278_First_Bad_Version/Solution.java
 [162]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_162_Find_Peak_Element/MainClass.java
 [034]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/MainClass.java
+[098]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_98_Validate_Binary_Search_Tree/MainClass.java
 
 
 
