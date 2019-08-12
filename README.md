@@ -236,12 +236,12 @@ Source code reference:
 [167]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_167_TwoSumII/Solution.java
 [007]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_007_Reverse_Integer/Solution.java
 [190]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_190_Reverse_Bits/Solution.java
-[009]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_9_Palindrome_Number/Solution.java
+[009]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_009_Palindrome_Number/Solution.java
 [344]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/no_344_Reverse_String/Solution.java
 [027]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_27_Remove_Element/MainClass.java
 [412]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_412_Fizz_Buzz/MainClass.java
 [026]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_26_Remove_Duplicates_from_Sorted_Array/MainClass.java
-[088]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_88_Merge_Sorted_Array/MainClass.java
+[088]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_088_Merge_Sorted_Array/MainClass.java
 [118]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_118_Pascals_Triangle/MainClass.java
 [119]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_119_Pascals_Triangle_II/MainClass.java
 [189]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_189_Rotate_Array/MainClass.java
@@ -298,7 +298,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [278]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_278_First_Bad_Version/Solution.java
 [162]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_162_Find_Peak_Element/MainClass.java
 [034]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/MainClass.java
-[098]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_98_Validate_Binary_Search_Tree/MainClass.java
+[098]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_098_Validate_Binary_Search_Tree/MainClass.java
 
 
 
