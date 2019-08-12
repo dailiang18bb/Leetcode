@@ -1,4 +1,4 @@
-package algorithm.No_9_Palindrome_Number;
+package algorithm.No_009_Palindrome_Number;
 
 import java.util.ArrayList;
 

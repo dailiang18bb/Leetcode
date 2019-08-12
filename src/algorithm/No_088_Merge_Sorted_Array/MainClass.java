@@ -1,4 +1,4 @@
-package algorithm.No_88_Merge_Sorted_Array;
+package algorithm.No_088_Merge_Sorted_Array;
 
 import java.io.BufferedReader;
 import java.io.IOException;

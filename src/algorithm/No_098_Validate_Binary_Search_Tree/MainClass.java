@@ -1,4 +1,4 @@
-package algorithm.No_98_Validate_Binary_Search_Tree;
+package algorithm.No_098_Validate_Binary_Search_Tree;
 
 /* -----------------------------------
  *  WARNING:
