@@ -87,6 +87,7 @@ Create a index for each question that I've been solved.
 |098 | [Validate Binary Search Tree][098]| Tree, DFS | Medium | [Algorithms 098][098q]| draw a tree map with the range, think of inorder traversal |08/11/2019|
 |173 | [Binary Search Tree Iterator][173]| Stack, Tree, Design | Medium | [Algorithms 173][173q]| don't forget the recursive way to do inorder traversal, it's easy |08/13/2019|
 |048 | [Rotate Image][048]| Array | Medium | [Algorithms 048][048q]| be careful of the index|08/18/2019|
+|784 | [Letter Case Permutation][784]| Backtracking, Bit Manipulation | Easy | [Algorithms 784][784q]| draw the tree |08/24/2019|
 
 
 ## Topic Review
@@ -222,6 +223,7 @@ Question Link reference:
 [098q]: https://leetcode.com/problems/validate-binary-search-tree/
 [173q]: https://leetcode.com/problems/binary-search-tree-iterator/
 [048q]: https://leetcode.com/problems/rotate-image/
+[784q]: https://leetcode.com/problems/letter-case-permutation/
 
 
 
@@ -306,6 +308,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [098]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_098_Validate_Binary_Search_Tree/MainClass.java
 [173]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_173_Binary_Search_Tree_Iterator/MainClass.java
 [048]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_048_Rotate_Image/MainClass.java
+[784]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_784_Letter_Case_Permutation/MainClass.java
 
 
 
