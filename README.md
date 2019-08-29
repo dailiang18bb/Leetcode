@@ -89,6 +89,7 @@ Create a index for each question that I've been solved.
 |048 | [Rotate Image][048]| Array | Medium | [Algorithms 048][048q]| be careful of the index|08/18/2019|
 |784 | [Letter Case Permutation][784]| Backtracking, Bit Manipulation | Easy | [Algorithms 784][784q]| draw the tree |08/24/2019|
 |046 | [Permutations][046]| Backtracking | Medium | [Algorithms 046][046q]| use boolean array to track visited elements |08/28/2019|
+|047 | [Permutations II][047]| Backtracking | Medium | [Algorithms 047][047q]| sort first and then avoid duplicate |08/28/2019|
 
 
 ## Topic Review
@@ -140,6 +141,7 @@ Create a index for each question that I've been solved.
 46. Tree problem use Recursive, `top-down`, `bottom-up`
 47. int overflow control in Binary Search, `mid = left + (right - left)/2;`
 48. Bit manipulate, `a>>1 == a/2`
+49. `HashSet<List<Integer>>` to remove duplicate List works
 
 
 ## Ask Questions
@@ -226,6 +228,7 @@ Question Link reference:
 [048q]: https://leetcode.com/problems/rotate-image/
 [784q]: https://leetcode.com/problems/letter-case-permutation/
 [046q]: https://leetcode.com/problems/permutations/
+[047q]: https://leetcode.com/problems/permutations-ii/
 
 
 
@@ -312,6 +315,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [048]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_048_Rotate_Image/MainClass.java
 [784]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_784_Letter_Case_Permutation/MainClass.java
 [046]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_046_Permutations/MainClass.java
+[047]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_047_Permutations_II/MainClass.java
 
 
 
