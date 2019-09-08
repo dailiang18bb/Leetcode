@@ -1,4 +1,4 @@
-package algorithm.No_27_Remove_Element;
+package algorithm.No_027_Remove_Element;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package algorithm.No_26_Remove_Duplicates_from_Sorted_Array;
+package algorithm.No_026_Remove_Duplicates_from_Sorted_Array;
 
 import java.io.*;
 

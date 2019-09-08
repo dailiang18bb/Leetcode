@@ -1,4 +1,4 @@
-package algorithm.No_20_Valid_Parentheses;
+package algorithm.No_020_Valid_Parentheses;
 
 import java.io.BufferedReader;
 import java.io.IOException;
