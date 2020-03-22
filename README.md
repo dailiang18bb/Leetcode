@@ -94,6 +94,8 @@ Create a index for each question that I've been solved.
 |040 | [Combination Sum II][040]| Array, Backtracking | Medium | [Algorithms 040][040q]| sort and use i > currIndex to avoid duplicate |08/29/2019|
 |078 | [Subsets][078]| Array, Backtracking, Bit Manipulation | Medium | [Algorithms 078][078q]| dfs draw a tree |08/29/2019|
 |013 | [Roman to Integer][013]| Math, String | Easy | [Algorithms 013][013q]| warmup |11/26/2019|
+|0028| [Implement strStr()][0028]| Two pointers, String | Easy | [Algorithms 0028][0028q]| Arise | 03/21/2020|
+
 
 
 ## Topic Review
@@ -237,6 +239,7 @@ Question Link reference:
 [040q]: https://leetcode.com/problems/combination-sum-ii/
 [078q]: https://leetcode.com/problems/subsets/
 [013q]: https://leetcode.com/problems/roman-to-integer/
+[0028q]: https://leetcode.com/problems/implement-strstr/
 
 
 
@@ -330,6 +333,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [040]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_040_Combination_Sum_II/MainClass.java
 [078]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_078_Subsets/MainClass.java
 [013]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_013_Roman_to_Integer/MainClass.java
+[0028]:https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0028_Implement_strStr/MainClass.java
 
 
 <!--
