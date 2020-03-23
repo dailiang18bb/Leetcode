@@ -97,7 +97,7 @@ Create a index for each question that I've been solved.
 |0028| [Implement strStr()][0028]| Two pointers, String | Easy | [Algorithms 0028][0028q]| Arise | 03/21/2020|
 |0035| [Search Insert Position][0035]| Array, Binary Search | Easy | [Algorithms 0035][0035q]| Binary search, recursive, iteritive| 03/21/2020|
 |1389| [Create Target Array in the Given Order][1389]| Array | Easy | [Algorithms 1389][1389q]| List.add(index, num)| 03/22/2020|
-
+|1390| [Four Divisors][1390]| Math | Medium | [Algorithms 1390][1390q]| recursive, Math.sqrt(n)| 03/22/2020|
 
 
 
@@ -245,7 +245,7 @@ Question Link reference:
 [0028q]: https://leetcode.com/problems/implement-strstr/
 [0035q]: https://leetcode.com/problems/search-insert-position/
 [1389q]: https://leetcode.com/problems/create-target-array-in-the-given-order/
-
+[1390q]: https://leetcode.com/problems/four-divisors/
 
 
 
@@ -343,6 +343,9 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0028]:https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0028_Implement_strStr/MainClass.java
 [0035]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0035_Search_Insert_Position/MainClass.java
 [1389]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1389_Create_Target_Array_in_the_Given_Order/MainClass.java
+[1390]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1390_Four_Divisors/MainClass.java
+
+
 <!--
 Topic review reference:
 -->
