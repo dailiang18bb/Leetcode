@@ -98,6 +98,7 @@ Create a index for each question that I've been solved.
 |0035| [Search Insert Position][0035]| Array, Binary Search | Easy | [Algorithms 0035][0035q]| Binary search, recursive, iteritive| 03/21/2020|
 |1389| [Create Target Array in the Given Order][1389]| Array | Easy | [Algorithms 1389][1389q]| List.add(index, num)| 03/22/2020|
 |1390| [Four Divisors][1390]| Math | Medium | [Algorithms 1390][1390q]| recursive, Math.sqrt(n)| 03/22/2020|
+|0058| [Length of Last Word][0058]| String | Easy | [Algorithms 0058][0058q]| going backward make things easy| 03/23/2020|
 
 
 
@@ -246,7 +247,7 @@ Question Link reference:
 [0035q]: https://leetcode.com/problems/search-insert-position/
 [1389q]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1390q]: https://leetcode.com/problems/four-divisors/
-
+[0058q]: https://leetcode.com/problems/length-of-last-word/
 
 
 
@@ -344,7 +345,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0035]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0035_Search_Insert_Position/MainClass.java
 [1389]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1389_Create_Target_Array_in_the_Given_Order/MainClass.java
 [1390]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1390_Four_Divisors/MainClass.java
-
+[0058]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0058_Length_of_Last_Word/MainClass.java
 
 <!--
 Topic review reference:
