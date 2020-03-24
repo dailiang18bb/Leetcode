@@ -101,6 +101,7 @@ Create a index for each question that I've been solved.
 |0058| [Length of Last Word][0058]| String | Easy | [Algorithms 0058][0058q]| going backward make things easy| 03/23/2020|
 |0067| [Add Binary][0067]| Math, String | Easy | [Algorithms 0067][0067q]| put where using index inside the if statement| 03/23/2020|
 |0083| [Remove Duplicates from Sorted List][0083]| Linked List | Easy | [Algorithms 0083][0083q]| linked list think of recursion or iteration| 03/24/2020|
+|0876| [Middle of the Linked List][0876]| Linked List | Easy | [Algorithms 0876][0876q]| fast and slow pointer| 03/24/2020|
 
 
 ## Topic Review
@@ -251,7 +252,7 @@ Question Link reference:
 [0058q]: https://leetcode.com/problems/length-of-last-word/
 [0067q]: https://leetcode.com/problems/add-binary/
 [0083q]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-
+[0876q]: https://leetcode.com/problems/middle-of-the-linked-list/
 
 
 
@@ -346,6 +347,9 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0058]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0058_Length_of_Last_Word/MainClass.java
 [0067]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0067_Add_Binary/MainClass.java
 [0083]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0083_Remove_Duplicates_from_Sorted_List/MainClass.java
+[0876]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0876_Middle_of_the_Linked_List/MainClass.java
+
+
 
 <!--
 Topic review reference:
