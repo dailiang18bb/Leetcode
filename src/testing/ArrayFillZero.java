@@ -1,4 +1,4 @@
-package algorithm.Testing;
+package testing;
 
 public class ArrayFillZero {
 	public static void main(String[] args) {

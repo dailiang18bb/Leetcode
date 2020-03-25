@@ -1,4 +1,4 @@
-package algorithm.Testing;
+package testing;
 
 public class CharToInt {
 	public static void main(String[] args) {
