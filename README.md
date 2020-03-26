@@ -106,6 +106,7 @@ Create a index for each question that I've been solved.
 |0445| [Add Two Numbers II][0445]| Linked List | medium | [Algorithms 0445][0445q]| build ListNode backward | 03/24/2020|
 |0100| [Same Tree][0100]| Tree, DFS | Easy | [Algorithms 0100][0100q]| DFS, recurrsion | 03/25/2020|
 |0111| [Minimum Depth of Binary Tree][0111]| Tree, DFS, BFS | Easy | [Algorithms 0111][0111q]| if(node.left==null or node.right==null) | 03/26/2020|
+|0257| [Binary Tree Paths][0257]| Tree, DFS | Easy | [Algorithms 0257][0257q]| leaf node condition | 03/26/2020|
 
 
 
@@ -262,6 +263,8 @@ Question Link reference:
 [0445q]: https://leetcode.com/problems/add-two-numbers-ii/
 [0100q]: https://leetcode.com/problems/same-tree/
 [0111q]: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+[0257q]: https://leetcode.com/problems/binary-tree-paths/
+
 
 
 <!--
@@ -357,6 +360,11 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0445]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0445_Add_Two_Numbers_II/MainClass.java
 [0100]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0100_Same_Tree/MainClass.java
 [0111]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0111_Minimum_Depth_of_Binary_Tree/MainClass.java
+[0257]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0257_Binary_Tree_Paths/MainClass.java
+
+
+
+
 
 <!--
 Topic review reference:
