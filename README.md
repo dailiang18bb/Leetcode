@@ -105,6 +105,7 @@ Create a index for each question that I've been solved.
 |1290| [Convert Binary Number in a Linked List to Integer][1290]| Linked List | Easy | [Algorithms 1290][1290q]| sum = sum* 2 + node.val| 03/24/2020|
 |0445| [Add Two Numbers II][0445]| Linked List | medium | [Algorithms 0445][0445q]| build ListNode backward | 03/24/2020|
 |0100| [Same Tree][0100]| Tree, DFS | Easy | [Algorithms 0100][0100q]| DFS, recurrsion | 03/25/2020|
+|0111| [Minimum Depth of Binary Tree][0111]| Tree, DFS, BFS | Easy | [Algorithms 0111][0111q]| if(node.left==null||node.right==null) | 03/26/2020|
 
 
 
@@ -260,7 +261,7 @@ Question Link reference:
 [1290q]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 [0445q]: https://leetcode.com/problems/add-two-numbers-ii/
 [0100q]: https://leetcode.com/problems/same-tree/
-
+[0111q]: https://leetcode.com/problems/minimum-depth-of-binary-tree/
 
 
 <!--
@@ -355,7 +356,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [1290]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1290_Convert_Binary_Number_in_a_Linked_List_to_Integer/MainClass.java
 [0445]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0445_Add_Two_Numbers_II/MainClass.java
 [0100]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0100_Same_Tree/MainClass.java
-
+[0111]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0111_Minimum_Depth_of_Binary_Tree/MainClass.java
 
 <!--
 Topic review reference:
