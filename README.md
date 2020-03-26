@@ -105,7 +105,7 @@ Create a index for each question that I've been solved.
 |1290| [Convert Binary Number in a Linked List to Integer][1290]| Linked List | Easy | [Algorithms 1290][1290q]| sum = sum* 2 + node.val| 03/24/2020|
 |0445| [Add Two Numbers II][0445]| Linked List | medium | [Algorithms 0445][0445q]| build ListNode backward | 03/24/2020|
 |0100| [Same Tree][0100]| Tree, DFS | Easy | [Algorithms 0100][0100q]| DFS, recurrsion | 03/25/2020|
-|0111| [Minimum Depth of Binary Tree][0111]| Tree, DFS, BFS | Easy | [Algorithms 0111][0111q]| if(node.left==null||node.right==null) | 03/26/2020|
+|0111| [Minimum Depth of Binary Tree][0111]| Tree, DFS, BFS | Easy | [Algorithms 0111][0111q]| if(node.left==null or node.right==null) | 03/26/2020|
 
 
 
