@@ -110,7 +110,7 @@ Create a index for each question that I've been solved.
 |0107| [Binary Tree Level Order Traversal II][0107]| Tree, BFS | Easy | [Algorithms 0107][0107q]| BFS warm up | 03/27/2020|
 |0103| [Binary Tree Zigzag Level Order Traversal][0103]| Tree, BFS | Medium | [Algorithms 0103][0103q]| BFS | 03/27/2020|
 |0637| [Average of Levels in Binary Tree][0637]| Tree | Easy | [Algorithms 0637][0637q]| BFS | 03/27/2020|
-
+|0404| [Sum of Left Leaves][0404]| Tree | Easy | [Algorithms 0404][0404q]| DFS, Leaves condition, return as sum | 03/27/2020|
 
 
 ## Topic Review
@@ -270,6 +270,7 @@ Question Link reference:
 [0107q]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [0103q]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 [0637q]: https://leetcode.com/problems/average-of-levels-in-binary-tree/
+[0404q]: https://leetcode.com/problems/sum-of-left-leaves/
 
 
 <!--
@@ -369,7 +370,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0107]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0107_Binary_Tree_Level_Order_Traversal_II/MainClass.java
 [0103]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0103_Binary_Tree_Zigzag_Level_Order_Traversal/MainClass.java
 [0637]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0637_Average_of_Levels_in_Binary_Tree/MainClass.java
-
+[0404]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0404_Sum_of_Left_Leaves/MainClass.java
 
 
 <!--
