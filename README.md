@@ -112,7 +112,7 @@ Create a index for each question that I've been solved.
 |0404| [Sum of Left Leaves][0404]| Tree | Easy | [Algorithms 0404][0404q]| DFS, Leaves condition, return as sum | 03/27/2020|
 |0704 |[Binary Search][0704]| Binary Search | Easy | [Algorithms 0704][0704q]| while(left <= right), return helper() |03/29/2020|
 |0283 |[Move Zeroes][0283]| Array, Two Pointers | Easy | [Algorithms 0283][0283q]| two pointer track non zeros |04/06/2020|
-
+|0122 |[Best Time to Buy and Sell Stock II][0122]| Array, Greedy | Easy | [Algorithms 0122][0122q]| sum all arise |04/06/2020|
 
 
 ## Topic Review
@@ -274,7 +274,7 @@ Question Link reference:
 [0404q]: https://leetcode.com/problems/sum-of-left-leaves/
 [0704q]: https://leetcode.com/problems/binary-search/
 [0283q]: https://leetcode.com/problems/move-zeroes/
-
+[0122q]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
 <!--
 Source code reference:
@@ -375,6 +375,10 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0404]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0404_Sum_of_Left_Leaves/MainClass.java
 [0704]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0704_Binary_Search/MainClass.java
 [0283]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0283_Move_Zeroes/MainClass.java
+[0122]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0122_Best_Time_to_Buy_and_Sell_Stock_II/MainClass.java
+
+
+
 
 <!--
 Topic review reference:
