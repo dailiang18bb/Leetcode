@@ -78,7 +78,6 @@ Create a index for each question that I've been solved.
 |590 | [N-ary Tree Postorder Traversal][590]| Tree | Easy | [Algorithms 590][590q]| Reverse the Preorder list |08/02/2019|
 |429 | [N-ary Tree Level Order Traversal][429]| Tree, BFS | Easy | [Algorithms 429][429q]| BFS == Queue |08/02/2019|
 |559 | [Maximum Depth of N-ary Tree][559]| Tree, BFS, DFS | Easy | [Algorithms 559][559q]| Tree problem, using Top-down/ Bottom-up |08/02/2019|
-|704 | [Binary Search][704]| Binary Search | Easy | [Algorithms 704][704q]| while(left <= right) |08/04/2019|
 |069 | [Sqrt(x)][069]| Math, Binary Search | Easy | [Algorithms 069][069q]| mid = (temp + x/temp)/2 |08/05/2019|
 |374 | [Guess Number Higher or Lower][374]| Binary Search | Easy | [Algorithms 374][374q]| Ternary search |08/05/2019|
 |278 | [First Bad Version][278]| Binary Search | Easy | [Algorithms 278][278q]| Binary search template 2, get the first ()number |08/06/2019|
@@ -111,6 +110,8 @@ Create a index for each question that I've been solved.
 |0103| [Binary Tree Zigzag Level Order Traversal][0103]| Tree, BFS | Medium | [Algorithms 0103][0103q]| BFS | 03/27/2020|
 |0637| [Average of Levels in Binary Tree][0637]| Tree | Easy | [Algorithms 0637][0637q]| BFS | 03/27/2020|
 |0404| [Sum of Left Leaves][0404]| Tree | Easy | [Algorithms 0404][0404q]| DFS, Leaves condition, return as sum | 03/27/2020|
+|0704 |[Binary Search][0704]| Binary Search | Easy | [Algorithms 0704][0704q]| while(left <= right), return helper() |03/29/2020|
+
 
 
 ## Topic Review
@@ -238,7 +239,6 @@ Question Link reference:
 [590q]: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 [429q]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [559q]: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
-[704q]: https://leetcode.com/problems/binary-search/
 [069q]: https://leetcode.com/problems/sqrtx/
 [374q]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [278q]: https://leetcode.com/problems/first-bad-version/
@@ -271,6 +271,8 @@ Question Link reference:
 [0103q]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 [0637q]: https://leetcode.com/problems/average-of-levels-in-binary-tree/
 [0404q]: https://leetcode.com/problems/sum-of-left-leaves/
+[0704q]: https://leetcode.com/problems/binary-search/
+
 
 
 <!--
@@ -338,7 +340,6 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [590]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_590_N_ary_Tree_Postorder_Traversal/Solution.java
 [429]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_429_N_ary_Tree_Level_Order_Traversal/Solution.java
 [559]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_559_Maximum_Depth_of_N_ary_Tree/Solution.java
-[704]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_704_Binary_Search/MainClass.java
 [069]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_069_Sqrt_x/MainClass.java
 [374]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_374_Guess_Number_Higher_or_Lower/MainClass.java
 [278]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_278_First_Bad_Version/Solution.java
@@ -371,6 +372,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0103]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0103_Binary_Tree_Zigzag_Level_Order_Traversal/MainClass.java
 [0637]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0637_Average_of_Levels_in_Binary_Tree/MainClass.java
 [0404]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0404_Sum_of_Left_Leaves/MainClass.java
+[0704]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0704_Binary_Search/MainClass.java
 
 
 <!--
