@@ -116,6 +116,8 @@ Create a index for each question that I've been solved.
 |0053 |[Maximum Subarray][0053]| Array, Divide and conquer, DP | Easy | [Algorithms 0053][0053q]| track best move on every step |04/06/2020|
 |noNum |[Counting Elements][n0001]| HashSet | Easy | [30days coding week1-7][n0001q]| HashSet |04/08/2020|
 |0062 |[Unique Paths][0062]| Array, DP | Medium | [Algorithms 0062][0062q]| recursive, int[][] do memo |04/08/2020|
+|0063 |[Unique Paths II][0063]| Array, DP | Medium | [Algorithms 0062][0063q]| bottom up, build the arr |04/08/2020|
+
 
 ## Topic Review
 1. [ArrayList vs LinkedList][r001]
@@ -280,6 +282,7 @@ Question Link reference:
 [0053q]: https://leetcode.com/problems/maximum-subarray/
 [n0001q]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289
 [0062q]: https://leetcode.com/problems/unique-paths/
+[0063q]: https://leetcode.com/problems/unique-paths-ii/
 
 <!--
 Source code reference:
@@ -384,7 +387,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0053]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0053_Maximum_Subarray/MainClass.java
 [n0001]: https://github.com/dailiang18bb/Leetcode/blob/master/src/noNum/Counting_Elements/MainClass.java
 [0062]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0062_Unique_Paths/MainClass.java
-
+[0063]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0063_Unique_Paths_II/MainClass.java
 
 <!--
 Topic review reference:
