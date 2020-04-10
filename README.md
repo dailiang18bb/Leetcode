@@ -118,7 +118,7 @@ Create a index for each question that I've been solved.
 |0062 |[Unique Paths][0062]| Array, DP | Medium | [Algorithms 0062][0062q]| recursive, int[][] do memo |04/08/2020|
 |0063 |[Unique Paths II][0063]| Array, DP | Medium | [Algorithms 0062][0063q]| bottom up, build the arr |04/08/2020|
 |0064 |[Minimum Path Sum][0064]| Array, DP | Medium | [Algorithms 0064][0064q]| previous min value + current value |04/08/2020|
-|0844 |[Backspace String Compare][844]| Two pointer, Stack | Easy | [Algorithms 0844][0844q]| backspace related to stack.pop() |04/10/2020|
+|0844 |[Backspace String Compare][0844]| Two pointer, Stack | Easy | [Algorithms 0844][0844q]| backspace related to stack.pop() |04/10/2020|
 
 ## Topic Review
 1. [ArrayList vs LinkedList][r001]
