@@ -119,6 +119,8 @@ Create a index for each question that I've been solved.
 |0063 |[Unique Paths II][0063]| Array, DP | Medium | [Algorithms 0062][0063q]| bottom up, build the arr |04/08/2020|
 |0064 |[Minimum Path Sum][0064]| Array, DP | Medium | [Algorithms 0064][0064q]| previous min value + current value |04/08/2020|
 |0844 |[Backspace String Compare][0844]| Two pointer, Stack | Easy | [Algorithms 0844][0844q]| backspace related to stack.pop() |04/10/2020|
+|0198 |[House Robber][0198]| DP | Easy | [Algorithms 0198][0198q]| currentMax = Math.max(prevPrevMax + currentValue, prevMax) |04/10/2020|
+
 
 ## Topic Review
 1. [ArrayList vs LinkedList][r001]
@@ -286,6 +288,8 @@ Question Link reference:
 [0063q]: https://leetcode.com/problems/unique-paths-ii/
 [0064q]: https://leetcode.com/problems/minimum-path-sum/
 [0844q]: https://leetcode.com/problems/backspace-string-compare/
+[0198q]: https://leetcode.com/problems/house-robber/
+
 
 <!--
 Source code reference:
@@ -393,7 +397,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0063]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0063_Unique_Paths_II/MainClass.java
 [0064]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0064_Minimum_Path_Sum/MainClass.java
 [0844]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0844_Backspace_String_Compare/MainClass.java
-
+[0198]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0198_House_Robber/MainClass.java
 
 <!--
 Topic review reference:
