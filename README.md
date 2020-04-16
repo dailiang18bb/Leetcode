@@ -123,6 +123,7 @@ Create a index for each question that I've been solved.
 |noNum |[Perform String Shifts][n0002]| String | Easy | [30days coding week2-7][n0002q]| use list to make the shift |04/14/2020|
 |0238 |[Product of Array Except Self][0238]| Array | Medium | [Algorithms 0238][0238q]| use two arrays to tracking the product |04/15/2020|
 |0213 |[House Robber II][0213]| DP | Medium | [Algorithms 0213][0213q]| divided into sub problems |04/15/2020|
+|0120 |[Triangle][0120]| DP, Array | Medium | [Algorithms 0120][0120q]| top-down, bottom-up |04/16/2020|
 
 ## Topic Review
 1. [ArrayList vs LinkedList][r001]
@@ -294,7 +295,7 @@ Question Link reference:
 [n0002q]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299
 [0238q]: https://leetcode.com/problems/product-of-array-except-self/
 [0213q]: https://leetcode.com/problems/house-robber-ii/
-
+[0120q]: https://leetcode.com/problems/triangle/
 
 <!--
 Source code reference:
@@ -406,7 +407,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [n0002]: https://github.com/dailiang18bb/Leetcode/blob/master/src/noNum/Perform_String_Shifts/MainClass.java
 [0238]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0238_Product_of_Array_Except_Self/MainClass.java
 [0213]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0213_House_Robber_II/MainClass.java
-
+[0120]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0120_Triangle/MainClass.java
 
 
 <!--
