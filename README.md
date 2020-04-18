@@ -124,6 +124,11 @@ Create a index for each question that I've been solved.
 |0238 |[Product of Array Except Self][0238]| Array | Medium | [Algorithms 0238][0238q]| use two arrays to tracking the product |04/15/2020|
 |0213 |[House Robber II][0213]| DP | Medium | [Algorithms 0213][0213q]| divided into sub problems |04/15/2020|
 |0120 |[Triangle][0120]| DP, Array | Medium | [Algorithms 0120][0120q]| top-down, bottom-up |04/16/2020|
+|1413 |[Minimum Value to Get Positive Step by Step Sum][1413]| Array | Easy | [Algorithms 1413][1413q]| find the min sum value |04/18/2020|
+
+
+
+
 
 ## Topic Review
 1. [ArrayList vs LinkedList][r001]
@@ -296,7 +301,7 @@ Question Link reference:
 [0238q]: https://leetcode.com/problems/product-of-array-except-self/
 [0213q]: https://leetcode.com/problems/house-robber-ii/
 [0120q]: https://leetcode.com/problems/triangle/
-
+[1413q]: https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 <!--
 Source code reference:
 -->
@@ -408,7 +413,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0238]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0238_Product_of_Array_Except_Self/MainClass.java
 [0213]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0213_House_Robber_II/MainClass.java
 [0120]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0120_Triangle/MainClass.java
-
+[1413]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum/MainClass.java
 
 <!--
 Topic review reference:
