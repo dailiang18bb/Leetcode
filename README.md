@@ -125,7 +125,7 @@ Create a index for each question that I've been solved.
 |0213 |[House Robber II][0213]| DP | Medium | [Algorithms 0213][0213q]| divided into sub problems |04/15/2020|
 |0120 |[Triangle][0120]| DP, Array | Medium | [Algorithms 0120][0120q]| top-down, bottom-up |04/16/2020|
 |1413 |[Minimum Value to Get Positive Step by Step Sum][1413]| Array | Easy | [Algorithms 1413][1413q]| find the min sum value |04/18/2020|
-
+|1414 |[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K][1414]| Array, Greedy | Medium | [Algorithms 1414][1414q]| find the largest fib num `x` smaller than `k`, `return helper(k - x) + 1` |04/18/2020|
 
 
 
@@ -302,6 +302,9 @@ Question Link reference:
 [0213q]: https://leetcode.com/problems/house-robber-ii/
 [0120q]: https://leetcode.com/problems/triangle/
 [1413q]: https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
+[1414q]: https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+
+
 <!--
 Source code reference:
 -->
@@ -414,6 +417,9 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0213]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0213_House_Robber_II/MainClass.java
 [0120]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0120_Triangle/MainClass.java
 [1413]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum/MainClass.java
+[1414]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1414_Find_the_Minimum_Number_of_Fibonacci_Numbers_Whose_Sum_Is_K/MainClass.java
+
+
 
 <!--
 Topic review reference:
