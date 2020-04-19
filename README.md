@@ -128,6 +128,8 @@ Create a index for each question that I've been solved.
 |1414 |[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K][1414]| Array, Greedy | Medium | [Algorithms 1414][1414q]| find the largest fib num `x` smaller than `k`, `return helper(k - x) + 1` |04/18/2020|
 |0108 |[Convert Sorted Array to Binary Search Tree][0108]| Tree, DFS | Easy | [Algorithms 0108][0108q]| get the mid point as root |04/19/2020|
 |0701 |[Insert into a Binary Search Tree][0701]| Tree | Medium | [Algorithms 0701][0701q]| like greedy, compare val with node.val everytime then move |04/19/2020|
+|0110 |[Balanced Binary Tree][0110]| Tree, DFS | Easy | [Algorithms 0110][0110q]| compare Max Depth of each node |04/19/2020|
+
 
 
 ## Topic Review
@@ -305,7 +307,7 @@ Question Link reference:
 [1414q]: https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 [0108q]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 [0701q]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
-
+[0110q]: https://leetcode.com/problems/balanced-binary-tree/
 
 
 
@@ -424,7 +426,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [1414]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1414_Find_the_Minimum_Number_of_Fibonacci_Numbers_Whose_Sum_Is_K/MainClass.java
 [0108]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0108_Convert_Sorted_Array_to_Binary_Search_Tree/MainClass.java
 [0701]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0701_Insert_into_a_Binary_Search_Tree/MainClass.java
-
+[0110]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0110_Balanced_Binary_Tree/MainClass.java
 
 <!--
 Topic review reference:
