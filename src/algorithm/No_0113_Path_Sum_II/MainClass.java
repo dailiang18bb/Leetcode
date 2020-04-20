@@ -1,4 +1,4 @@
-package algorithm.No_0110_Balanced_Binary_Tree;
+package algorithm.No_0113_Path_Sum_II;
 
 
 import java.io.*;
@@ -29,33 +29,37 @@ class TreeNode {
 class Solution {
 
 	// Approach 1
-	// Time Complexity: O(n)
-	// Space Complexity: O(n)
-	// Notes: bottom-up
-
-	static final int WORNG_VALUE = -18;
-
-	public boolean isBalanced(TreeNode root) {
-		// edge
+	// Time Complexity:
+	// Space Complexity:
+	// Notes:
+	public List<List<Integer>> pathSum(TreeNode root, int sum) {
+		// Edge
 		if (root == null) {
-			return true;
+			return new ArrayList<>();
 		}
-		return helper(root) != WORNG_VALUE;
+		//
+		List<List<Integer>> res = new ArrayList<List<Integer>>();
+		helper(root, new ArrayList<Integer>(), sum, res);
+		return res;
 	}
 
-	public int helper(TreeNode node) {
+	private void helper(TreeNode node, List<Integer> path, int sum, List<List<Integer>> res) {
 		if (node == null) {
-			return 0;
+			return;
 		}
+		sum = sum - node.val;
+		List<Integer> tempList = new ArrayList<>(path);
+		tempList.add(node.val);
+		helper(node.left, tempList, sum, res);
+		helper(node.right, tempList, sum, res);
 
-		int left = helper(node.left);
-		int right = helper(node.right);
-		if (left == WORNG_VALUE || right == WORNG_VALUE || Math.abs(left - right) > 1) {
-			return WORNG_VALUE;
+		if (node.left == null && node.right == null && sum == 0) {
+			// find
+			res.add(tempList);
 		}
-		return Math.max(left, right) + 1;
 	}
 	// End of Approach 1
+
 }
 
 public class MainClass {
@@ -103,8 +107,32 @@ public class MainClass {
 		return root;
 	}
 
-	public static String booleanToString(boolean input) {
-		return input ? "True" : "False";
+	public static String integerArrayListToString(List<Integer> nums, int length) {
+		if (length == 0) {
+			return "[]";
+		}
+
+		String result = "";
+		for (int index = 0; index < length; index++) {
+			Integer number = nums.get(index);
+			result += Integer.toString(number) + ", ";
+		}
+		return "[" + result.substring(0, result.length() - 2) + "]";
+	}
+
+	public static String integerArrayListToString(List<Integer> nums) {
+		return integerArrayListToString(nums, nums.size());
+	}
+
+	public static String int2dListToString(List<List<Integer>> nums) {
+		StringBuilder sb = new StringBuilder("[");
+		for (List<Integer> list : nums) {
+			sb.append(integerArrayListToString(list));
+			sb.append(",");
+		}
+
+		sb.setCharAt(sb.length() - 1, ']');
+		return sb.toString();
 	}
 
 	public static void main(String[] args) throws IOException {
@@ -112,10 +140,12 @@ public class MainClass {
 		String line;
 		while ((line = in.readLine()) != null) {
 			TreeNode root = stringToTreeNode(line);
+			line = in.readLine();
+			int sum = Integer.parseInt(line);
 
-			boolean ret = new Solution().isBalanced(root);
+			List<List<Integer>> ret = new Solution().pathSum(root, sum);
 
-			String out = booleanToString(ret);
+			String out = int2dListToString(ret);
 
 			System.out.print(out);
 		}
