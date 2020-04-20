@@ -130,6 +130,7 @@ Create a index for each question that I've been solved.
 |0701 |[Insert into a Binary Search Tree][0701]| Tree | Medium | [Algorithms 0701][0701q]| like greedy, compare val with node.val everytime then move |04/19/2020|
 |0110 |[Balanced Binary Tree][0110]| Tree, DFS | Easy | [Algorithms 0110][0110q]| compare Max Depth of each node |04/19/2020|
 |0113 |[Path Sum II][0113]| Tree, DFS | Medium | [Algorithms 0113][0113q]| Top-down |04/19/2020|
+|1008 |[Construct Binary Search Tree from Preorder Traversal][1008]| Tree | Medium | [Algorithms 1008][1008q]| use a universal `i` to traverse the array, construct a node, then increse the `i` |04/20/2020|
 
 
 ## Topic Review
@@ -309,7 +310,7 @@ Question Link reference:
 [0701q]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
 [0110q]: https://leetcode.com/problems/balanced-binary-tree/
 [0113q]: https://leetcode.com/problems/path-sum-ii/
-
+[1008q]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 
 
 <!--
@@ -429,7 +430,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0701]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0701_Insert_into_a_Binary_Search_Tree/MainClass.java
 [0110]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0110_Balanced_Binary_Tree/MainClass.java
 [0113]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0113_Path_Sum_II/MainClass.java
-
+[1008]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1008_Construct_Binary_Search_Tree_from_Preorder_Traversal/MainClass.java
 
 <!--
 Topic review reference:
