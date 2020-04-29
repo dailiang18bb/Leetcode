@@ -131,6 +131,11 @@ Create a index for each question that I've been solved.
 |0110 |[Balanced Binary Tree][0110]| Tree, DFS | Easy | [Algorithms 0110][0110q]| compare Max Depth of each node |04/19/2020|
 |0113 |[Path Sum II][0113]| Tree, DFS | Medium | [Algorithms 0113][0113q]| Top-down |04/19/2020|
 |1008 |[Construct Binary Search Tree from Preorder Traversal][1008]| Tree | Medium | [Algorithms 1008][1008q]| use a universal `i` to traverse the array, construct a node, then increse the `i` |04/20/2020|
+|0560 |[Subarray Sum Equals K][0560]| Array, HashTable| Medium | [Algorithms 0560][0560q]| prefix sum A[i,j] = A[0,j] - A[0,i-1] |04/29/2020|
+
+
+
+
 
 
 ## Topic Review
@@ -311,7 +316,7 @@ Question Link reference:
 [0110q]: https://leetcode.com/problems/balanced-binary-tree/
 [0113q]: https://leetcode.com/problems/path-sum-ii/
 [1008q]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
-
+[0560q]: https://leetcode.com/problems/subarray-sum-equals-k/
 
 <!--
 Source code reference:
@@ -431,6 +436,8 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0110]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0110_Balanced_Binary_Tree/MainClass.java
 [0113]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0113_Path_Sum_II/MainClass.java
 [1008]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1008_Construct_Binary_Search_Tree_from_Preorder_Traversal/MainClass.java
+[0560]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0560_Subarray_Sum_Equals_K/MainClass.java
+
 
 <!--
 Topic review reference:
