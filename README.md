@@ -133,6 +133,7 @@ Create a index for each question that I've been solved.
 |1008 |[Construct Binary Search Tree from Preorder Traversal][1008]| Tree | Medium | [Algorithms 1008][1008q]| use a universal `i` to traverse the array, construct a node, then increse the `i` |04/20/2020|
 |0560 |[Subarray Sum Equals K][0560]| Array, HashTable| Medium | [Algorithms 0560][0560q]| prefix sum A[i,j] = A[0,j] - A[0,i-1] |04/29/2020|
 |0523 |[Continuous Subarray Sum][0523]| Math, DP | Medium | [Algorithms 0523][0523q]| sum % k = A[0, j] % k - A[0, i - 1] % k  |04/30/2020|
+|0713 |[Subarray Product Less Than K][0713]| Array, Two Pointers | Medium | [Algorithms 0713][0713q]| keep maintain a sliding window,which max product less than k  |05/01/2020|
 
 
 
@@ -318,6 +319,7 @@ Question Link reference:
 [1008q]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 [0560q]: https://leetcode.com/problems/subarray-sum-equals-k/
 [0523q]: https://leetcode.com/problems/continuous-subarray-sum/
+[0713q]: https://leetcode.com/problems/subarray-product-less-than-k/
 
 
 
@@ -441,6 +443,9 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [1008]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1008_Construct_Binary_Search_Tree_from_Preorder_Traversal/MainClass.java
 [0560]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0560_Subarray_Sum_Equals_K/MainClass.java
 [0523]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0523_Continuous_Subarray_Sum/MainClass.java
+[0713]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0713_Subarray_Product_Less_Than_K/MainClass.java
+
+
 
 <!--
 Topic review reference:
