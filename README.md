@@ -136,7 +136,7 @@ Create a index for each question that I've been solved.
 |0713 |[Subarray Product Less Than K][0713]| Array, Two Pointers | Medium | [Algorithms 0713][0713q]| keep maintain a sliding window,which max product less than k  |05/01/2020|
 |0152 |[Maximum Product Subarray][0152]| Array, DP | Medium | [Algorithms 0152][0152q]| tracking the max and min product at the same time  |05/01/2020|
 |0974 |[Subarray Sums Divisible by K][0974]| Array, Hash Table | Medium | [Algorithms 0974][0974q]| tracking the mod of sum, turn negative mod into positive  |05/01/2020|
-
+|0771 |[Jewels and Stones][0771]| Hash Table | Easy | [Algorithms 0771][0771q]| HashSet  |05/02/2020|
 
 
 
@@ -323,8 +323,7 @@ Question Link reference:
 [0713q]: https://leetcode.com/problems/subarray-product-less-than-k/
 [0152q]: https://leetcode.com/problems/maximum-product-subarray/
 [0974q]: https://leetcode.com/problems/subarray-sums-divisible-by-k/
-
-
+[0771q]: https://leetcode.com/problems/jewels-and-stones/
 
 <!--
 Source code reference:
@@ -449,7 +448,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0713]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0713_Subarray_Product_Less_Than_K/MainClass.java
 [0152]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0152_Maximum_Product_Subarray/MainClass.java
 [0974]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0974_Subarray_Sums_Divisible_by_K/MainClass.java
-
+[0771]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0771_Jewels_and_Stones/MainClass.java
 
 <!--
 Topic review reference:
