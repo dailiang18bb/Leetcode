@@ -137,7 +137,8 @@ Create a index for each question that I've been solved.
 |0152 |[Maximum Product Subarray][0152]| Array, DP | Medium | [Algorithms 0152][0152q]| tracking the max and min product at the same time  |05/01/2020|
 |0974 |[Subarray Sums Divisible by K][0974]| Array, Hash Table | Medium | [Algorithms 0974][0974q]| tracking the mod of sum, turn negative mod into positive  |05/01/2020|
 |0771 |[Jewels and Stones][0771]| Hash Table | Easy | [Algorithms 0771][0771q]| HashSet  |05/02/2020|
-
+|0383 |[Ransom Note][0383]| String | Easy | [Algorithms 0383][0383q]| dealing with letter, can use `arr[26]`  |05/04/2020|
+|0476 |[Number Complement][0476]| Bit Manipulation | Easy | [Algorithms 0476][0476q]| '111' = '101' + '010'  |05/04/2020|
 
 
 ## Topic Review
@@ -324,6 +325,10 @@ Question Link reference:
 [0152q]: https://leetcode.com/problems/maximum-product-subarray/
 [0974q]: https://leetcode.com/problems/subarray-sums-divisible-by-k/
 [0771q]: https://leetcode.com/problems/jewels-and-stones/
+[0383q]: https://leetcode.com/problems/ransom-note/
+[0476q]: https://leetcode.com/problems/number-complement/
+
+
 
 <!--
 Source code reference:
@@ -449,6 +454,12 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0152]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0152_Maximum_Product_Subarray/MainClass.java
 [0974]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0974_Subarray_Sums_Divisible_by_K/MainClass.java
 [0771]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0771_Jewels_and_Stones/MainClass.java
+[0383]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0383_Ransom_Note/MainClass.java
+[0476]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0476_Number_Complement/MainClass.java
+
+
+
+
 
 <!--
 Topic review reference:
