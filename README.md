@@ -139,6 +139,9 @@ Create a index for each question that I've been solved.
 |0771 |[Jewels and Stones][0771]| Hash Table | Easy | [Algorithms 0771][0771q]| HashSet  |05/02/2020|
 |0383 |[Ransom Note][0383]| String | Easy | [Algorithms 0383][0383q]| dealing with letter, can use `arr[26]`  |05/04/2020|
 |0476 |[Number Complement][0476]| Bit Manipulation | Easy | [Algorithms 0476][0476q]| '111' = '101' + '010'  |05/04/2020|
+|0169 |[Majority Element][0169]| Array, Bit Manipulation | Easy | [Algorithms 0169][0169q]| sort and return nums[nums.length /2] |05/06/2020|
+
+
 
 
 ## Topic Review
@@ -327,6 +330,7 @@ Question Link reference:
 [0771q]: https://leetcode.com/problems/jewels-and-stones/
 [0383q]: https://leetcode.com/problems/ransom-note/
 [0476q]: https://leetcode.com/problems/number-complement/
+[0169q]: https://leetcode.com/problems/majority-element/
 
 
 
@@ -456,6 +460,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0771]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0771_Jewels_and_Stones/MainClass.java
 [0383]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0383_Ransom_Note/MainClass.java
 [0476]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0476_Number_Complement/MainClass.java
+[0169]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0169_Majority_Element/MainClass.java
 
 
 
