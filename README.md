@@ -142,6 +142,10 @@ Create a index for each question that I've been solved.
 |0169 |[Majority Element][0169]| Array, Bit Manipulation | Easy | [Algorithms 0169][0169q]| sort and return nums[nums.length /2] |05/06/2020|
 |0146 |[LRU Cache][0146]| Design | Medium | [Algorithms 0146][0146q]| LinkedList, HashMap |05/06/2020|
 |0993 |[Cousins in Binary Tree][0993]| Tree, BFS | Easy | [Algorithms 0993][0993q]| BFS, queue, check i for same parents |05/07/2020|
+|1162 |[As Far from Land as Possible][1162]| BFS, Graph | Medium | [Algorithms 1162][1162q]| BFS, once from every land, fill step |05/07/2020|
+
+
+
 
 
 ## Topic Review
@@ -333,7 +337,7 @@ Question Link reference:
 [0169q]: https://leetcode.com/problems/majority-element/
 [0146q]: https://leetcode.com/problems/lru-cache/
 [0993q]: https://leetcode.com/problems/cousins-in-binary-tree/
-
+[1162q]: https://leetcode.com/problems/as-far-from-land-as-possible/
 
 <!--
 Source code reference:
@@ -464,7 +468,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0169]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0169_Majority_Element/MainClass.java
 [0146]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0146_LRU_Cache/MainClass.java
 [0993]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0993_Cousins_in_Binary_Tree/MainClass.java
-
+[1162]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1162_As_Far_from_Land_as_Possible/MainClass.java
 
 
 
