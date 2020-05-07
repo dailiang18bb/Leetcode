@@ -141,6 +141,7 @@ Create a index for each question that I've been solved.
 |0476 |[Number Complement][0476]| Bit Manipulation | Easy | [Algorithms 0476][0476q]| '111' = '101' + '010'  |05/04/2020|
 |0169 |[Majority Element][0169]| Array, Bit Manipulation | Easy | [Algorithms 0169][0169q]| sort and return nums[nums.length /2] |05/06/2020|
 |0146 |[LRU Cache][0146]| Design | Medium | [Algorithms 0146][0146q]| LinkedList, HashMap |05/06/2020|
+|0993 |[Cousins in Binary Tree][0993]| Tree, BFS | Easy | [Algorithms 0993][0993q]| BFS, queue, check i for same parents |05/07/2020|
 
 
 ## Topic Review
@@ -331,6 +332,7 @@ Question Link reference:
 [0476q]: https://leetcode.com/problems/number-complement/
 [0169q]: https://leetcode.com/problems/majority-element/
 [0146q]: https://leetcode.com/problems/lru-cache/
+[0993q]: https://leetcode.com/problems/cousins-in-binary-tree/
 
 
 <!--
@@ -461,7 +463,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0476]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0476_Number_Complement/MainClass.java
 [0169]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0169_Majority_Element/MainClass.java
 [0146]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0146_LRU_Cache/MainClass.java
-
+[0993]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0993_Cousins_in_Binary_Tree/MainClass.java
 
 
 
