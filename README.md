@@ -145,8 +145,7 @@ Create a index for each question that I've been solved.
 |1162 |[As Far from Land as Possible][1162]| BFS, Graph | Medium | [Algorithms 1162][1162q]| BFS, once from every land, fill step |05/07/2020|
 |0127 |[Word Ladder][0127]| BFS | Medium | [Algorithms 0127][0127q]| BFS, think about how to find neighbours |05/07/2020|
 |0367 |[Valid Perfect Square][0367]| Math， Binary Search | Easy | [Algorithms 0367][0367q]| `num / mid < mid` avoid overflow |05/09/2020|
-
-
+|1232 |[Check If It Is a Straight Line][1232]| Array, Math, Geometry | Easy | [Algorithms 1232][1232q]| check slope |05/09/2020|
 
 
 
@@ -342,7 +341,7 @@ Question Link reference:
 [1162q]: https://leetcode.com/problems/as-far-from-land-as-possible/
 [0127q]: https://leetcode.com/problems/word-ladder/
 [0367q]: https://leetcode.com/problems/valid-perfect-square/
-
+[1232q]: https://leetcode.com/problems/check-if-it-is-a-straight-line/
 
 
 <!--
@@ -477,7 +476,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [1162]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1162_As_Far_from_Land_as_Possible/MainClass.java
 [0127]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0127_Word_Ladder/MainClass.java
 [0367]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0367_Valid_Perfect_Square/MainClass.java
-
+[1232]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1232_Check_If_It_Is_a_Straight_Line/MainClass.java
 
 
 
