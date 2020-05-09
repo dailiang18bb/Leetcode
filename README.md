@@ -144,6 +144,7 @@ Create a index for each question that I've been solved.
 |0993 |[Cousins in Binary Tree][0993]| Tree, BFS | Easy | [Algorithms 0993][0993q]| BFS, queue, check i for same parents |05/07/2020|
 |1162 |[As Far from Land as Possible][1162]| BFS, Graph | Medium | [Algorithms 1162][1162q]| BFS, once from every land, fill step |05/07/2020|
 |0127 |[Word Ladder][0127]| BFS | Medium | [Algorithms 0127][0127q]| BFS, think about how to find neighbours |05/07/2020|
+|0367 |[Valid Perfect Square][0367]| Math， Binary Search | Easy | [Algorithms 0367][0367q]| `num / mid < mid` avoid overflow |05/09/2020|
 
 
 
@@ -340,6 +341,8 @@ Question Link reference:
 [0993q]: https://leetcode.com/problems/cousins-in-binary-tree/
 [1162q]: https://leetcode.com/problems/as-far-from-land-as-possible/
 [0127q]: https://leetcode.com/problems/word-ladder/
+[0367q]: https://leetcode.com/problems/valid-perfect-square/
+
 
 
 <!--
@@ -473,6 +476,9 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0993]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0993_Cousins_in_Binary_Tree/MainClass.java
 [1162]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1162_As_Far_from_Land_as_Possible/MainClass.java
 [0127]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0127_Word_Ladder/MainClass.java
+[0367]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0367_Valid_Perfect_Square/MainClass.java
+
+
 
 
 <!--
