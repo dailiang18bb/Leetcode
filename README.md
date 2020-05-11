@@ -147,7 +147,7 @@ Create a index for each question that I've been solved.
 |0367 |[Valid Perfect Square][0367]| Math， Binary Search | Easy | [Algorithms 0367][0367q]| `num / mid < mid` avoid overflow |05/09/2020|
 |1232 |[Check If It Is a Straight Line][1232]| Array, Math, Geometry | Easy | [Algorithms 1232][1232q]| check slope |05/09/2020|
 |0997 |[Find the Town Judge][0997]| Graph | Easy | [Algorithms 0997][0997q]| graph,check `incoming` and `outgoing` edges |05/10/2020|
-|0773 |[Flood Fill][0773]| DPF | Easy | [Algorithms 0773][0773q]| DFS, recursion, easy implement |05/11/2020|
+|0773 |[Flood Fill][0773]| DFS | Easy | [Algorithms 0773][0773q]| DFS, recursion, easy implement |05/11/2020|
 
 
 ## Topic Review
