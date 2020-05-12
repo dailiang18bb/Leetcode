@@ -131,7 +131,7 @@ public class MainClass {
     
         StringBuilder sb = new StringBuilder("[");
         for (int[] item : array) {
-            sb.append(Integer.toString(item));
+            //sb.append(Integer.toString(item));
             sb.append(",");
         }
     
