@@ -8,7 +8,6 @@ class Solution {
     // Approach 1
     // Time Complexity: O(mn)
     // Space Complexity: O(mn)
-    // Notes: lcs
     
     public int minDistance(String word1, String word2) {
         int lcs = 0;
