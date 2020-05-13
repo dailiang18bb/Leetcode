@@ -150,7 +150,7 @@ Create a index for each question that I've been solved.
 |0773 |[Flood Fill][0773]| DFS | Easy | [Algorithms 0773][0773q]| DFS, recursion, easy implement |05/11/2020|
 |0583 |[Delete Operation for Two Strings][0583]| String | Medium | [Algorithms 0583][0583q]| convert to longest common subsequence, use 2D-array |05/12/2020|
 |0540 |[Single Element in a Sorted Array][0540]| Array, Binary Search | Medium | [Algorithms 0540][0540q]| (even-odd)(even-odd)..... Binary search check break point  |05/12/2020|
-
+|0921 |[Minimum Add to Make Parentheses Valid][0921]| Stack, Greedy | Medium | [Algorithms 0921][0921q]| stack check valid first, or use two counter count balanced parentheses |05/13/2020|
 
 
 ## Topic Review
@@ -350,6 +350,7 @@ Question Link reference:
 [0773q]: https://leetcode.com/problems/flood-fill/
 [0583q]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [0540q]: https://leetcode.com/problems/single-element-in-a-sorted-array/
+[0921q]: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
 
 <!--
@@ -489,6 +490,8 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0773]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0733_Flood_Fill/MainClass.java
 [0583]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0583_Delete_Operation_for_Two_Strings/MainClass.java
 [0540]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0540_Single_Element_in_a_Sorted_Array/MainClass.java
+[0921]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0921_Minimum_Add_to_Make_Parentheses_Valid/MainClass.java
+
 
 
 <!--
