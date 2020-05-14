@@ -151,6 +151,11 @@ Create a index for each question that I've been solved.
 |0583 |[Delete Operation for Two Strings][0583]| String | Medium | [Algorithms 0583][0583q]| convert to longest common subsequence, use 2D-array |05/12/2020|
 |0540 |[Single Element in a Sorted Array][0540]| Array, Binary Search | Medium | [Algorithms 0540][0540q]| (even-odd)(even-odd)..... Binary search check break point  |05/12/2020|
 |0921 |[Minimum Add to Make Parentheses Valid][0921]| Stack, Greedy | Medium | [Algorithms 0921][0921q]| stack check valid first, or use two counter count balanced parentheses |05/13/2020|
+|0402 |[Remove K Digits][0402]| Stack, Greedy | Medium | [Algorithms 0402][0402q]| sliding window, stack track lowest num |05/13/2020|
+
+
+
+
 
 
 ## Topic Review
@@ -351,6 +356,8 @@ Question Link reference:
 [0583q]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [0540q]: https://leetcode.com/problems/single-element-in-a-sorted-array/
 [0921q]: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+[0402q]: https://leetcode.com/problems/remove-k-digits/
+
 
 
 <!--
@@ -491,7 +498,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0583]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0583_Delete_Operation_for_Two_Strings/MainClass.java
 [0540]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0540_Single_Element_in_a_Sorted_Array/MainClass.java
 [0921]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0921_Minimum_Add_to_Make_Parentheses_Valid/MainClass.java
-
+[0402]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0402_Remove_K_Digits/MainClass.java
 
 
 <!--
