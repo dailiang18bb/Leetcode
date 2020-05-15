@@ -152,8 +152,7 @@ Create a index for each question that I've been solved.
 |0540 |[Single Element in a Sorted Array][0540]| Array, Binary Search | Medium | [Algorithms 0540][0540q]| (even-odd)(even-odd)..... Binary search check break point  |05/12/2020|
 |0921 |[Minimum Add to Make Parentheses Valid][0921]| Stack, Greedy | Medium | [Algorithms 0921][0921q]| stack check valid first, or use two counter count balanced parentheses |05/13/2020|
 |0402 |[Remove K Digits][0402]| Stack, Greedy | Medium | [Algorithms 0402][0402q]| sliding window, stack track lowest num |05/13/2020|
-
-
+|0208 |[Implement Trie (Prefix Tree)][0208]| Design, Trie | Medium | [Algorithms 0208][0208q]| A Trie contains the root TrieNode |05/14/2020|
 
 
 
@@ -357,7 +356,7 @@ Question Link reference:
 [0540q]: https://leetcode.com/problems/single-element-in-a-sorted-array/
 [0921q]: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 [0402q]: https://leetcode.com/problems/remove-k-digits/
-
+[0208q]: https://leetcode.com/problems/implement-trie-prefix-tree/
 
 
 <!--
@@ -499,6 +498,7 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0540]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0540_Single_Element_in_a_Sorted_Array/MainClass.java
 [0921]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0921_Minimum_Add_to_Make_Parentheses_Valid/MainClass.java
 [0402]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0402_Remove_K_Digits/MainClass.java
+[0208]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0208_Implement_Trie_Prefix_Tree/MainClass.java
 
 
 <!--
