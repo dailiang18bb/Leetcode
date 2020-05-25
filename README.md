@@ -155,6 +155,8 @@ Create a index for each question that I've been solved.
 |0208 |[Implement Trie (Prefix Tree)][0208]| Design, Trie | Medium | [Algorithms 0208][0208q]| A Trie contains the root TrieNode |05/14/2020|
 |0677 |[Map Sum Pairs][0677]| Trie | Medium | [Algorithms 0677][0677q]| Don't stuck with on direction |05/14/2020|
 |0567 |[Permutation in String][0567]| Two Pointers, Sliding Window | Medium | [Algorithms 0567][0567q]| think of a sliding window |05/19/2020|
+|1277 |[Count Square Submatrices with All Ones][1277]| Array, DP | Medium | [Algorithms 1277][1277q]| dp[][], min(dp[r-1][c-1], dp[c][r-1], dp[c-1][r]) + 1 |05/21/2020|
+
 
 
 
@@ -360,6 +362,12 @@ Question Link reference:
 [0208q]: https://leetcode.com/problems/implement-trie-prefix-tree/
 [0677q]: https://leetcode.com/problems/map-sum-pairs/
 [0567q]: https://leetcode.com/problems/permutation-in-string/
+[1277q]: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+
+
+
+
+
 
 <!--
 Source code reference:
@@ -503,6 +511,9 @@ https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_145_Binary
 [0208]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0208_Implement_Trie_Prefix_Tree/MainClass.java
 [0677]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0677_Map_Sum_Pairs/MainClass.java
 [0567]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_0567_Permutation_in_String/MainClass.java
+[1277]: https://github.com/dailiang18bb/Leetcode/blob/master/src/algorithm/No_1277_Count_Square_Submatrices_with_All_Ones/MainClass.java
+
+
 
 <!--
 Topic review reference:
