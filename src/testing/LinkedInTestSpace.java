@@ -2,7 +2,7 @@ package testing;
 
 import java.util.*;
 
-class cool{
+class CoolClass{
 	int add(int a, int b) {
 		return a+b;
 	}
