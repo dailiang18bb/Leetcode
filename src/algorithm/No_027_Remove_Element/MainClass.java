@@ -6,6 +6,22 @@ import java.io.InputStreamReader;
 
 class Solution {
 
+
+
+	// Adam's logic
+	int start = 0;
+       for(int i = 0; i < nums.length; i++){
+           if(nums[i] != val){
+               nums[start] = nums[i];
+               start++;
+           }
+       }
+       return start;
+	// end
+
+
+
+	
 	// my code
 	public int removeElement(int[] nums, int val) {
 		int result = 0;
